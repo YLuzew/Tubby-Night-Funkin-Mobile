@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="550" y="-100" icon="dipsy" color="#000000">
+	<anim name="danceRight" anim="dipsy-chill" indices="30,0..14"/>
+	<anim name="danceLeft" anim="dipsy-chill" indices="15..29"/>
+	<anim name="danceRight-alt" anim="dip-heh" indices="30,0..14"/>
+	<anim name="danceLeft-alt" anim="dip-heh" indices="15..29"/>
+</character>

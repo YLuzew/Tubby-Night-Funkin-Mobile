@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="350" y="70" sprite="TinkyWinky/tinky-winky-hallucin" camx="450" camy="-45" icon="Tinky hallcin" color="#7245D2">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-61" y="-3" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="12" y="-2" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="4" y="37" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-19" y="-9" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="alt-right0" x="-61" y="23" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="alt-left0" x="12" y="24" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="alt-up0" x="4" y="57" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="alt-down0" x="-19" y="17" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" y="350" sprite="new-born-gift" camx="-350" camy="-100" icon="newBorn" color="#C9A77F">
+	<anim name="idle" anim="idle0"/>
+	<anim name="singRIGHT" anim="right0" x="155" y="65"/>
+	<anim name="singLEFT" anim="left0" x="209" y="43"/>
+	<anim name="singUP" anim="up0" x="105" y="25"/>
+	<anim name="singDOWN" anim="down0" x="165" y="-65"/>
+</character>

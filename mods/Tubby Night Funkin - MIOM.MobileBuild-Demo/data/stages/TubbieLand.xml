@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="stage" folder="stages/tubbieLand/" startCamPosY="-500" startCamPosX="885">
+    <sprite name="sky" x="-600" y="-500" sprite="sky" scale="1" scroll="0"/>
+    <sprite name="sun" x="400" y="120" sprite="sun" scale="1" scroll="0.15"/>
+    <sprite name="clouds" x="-500" y="-500" sprite="clouds" scale="1" scroll="0.2"/>
+    <sprite name="hills-sun" x="-950" y="130" sprite="hills-sun" scale="1" scroll="0.3"/>
+    <sprite name="hills-background" x="-800" y="10" sprite="hills-background" scale="1" scroll="0.4"/>
+    <sprite name="hill-stage" x="-480" y="-370" sprite="hill-stage" scale="1" scroll="1"/>
+
+    <girlfriend scroll="1" y="-990" x="960"/>
+    <sprite name="boom-box-grass" x="650" y="-264" sprite="boom-box-grass" scale="1"/>
+    <dad scroll="1" y="-740" x="180"/>
+    <boyfriend scroll="1" y="-560" x="1260"/>
+    <combo y="-670" x="800"/>
+    <sprite name="grass" x="390" y="-220" sprite="grass" scale="1"/>
+
+    <high-memory>
+        <sprite name="tree" x="-820" y="-1200" sprite="tree" scale="1" scroll="0.7"/>
+        <sprite name="bushes" x="-400" y="-700" sprite="bushes" scale="1" scroll="1.4"/>
+        
+        <sprite name="overlay" x="-480" y="-1000" sprite="overlay" scale="1.2" scroll="0.5">
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+
+        <sprite name="sunlight" x="100" y="-10" sprite="sunlight" scale="1" scroll="0.1">
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+    </high-memory>
+</stage>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="1100" y="1100" sprite="LaaLaa/laa-laa-outkirts" flipX="true" camx="190" camy="-200" isPlayer="true" icon="outskirt" color="#BBAF57">
+	<anim name="idle" anim="laa-laa-EXPORT/laa-laa-idle"/>
+	<anim name="singLEFT" anim="laa-laa-EXPORT/laa-laa-left"/>
+	<anim name="singRIGHT" anim="laa-laa-EXPORT/laa-laa-right"/>
+	<anim name="singUP" anim="laa-laa-EXPORT/laa-laa-up"/>
+	<anim name="singDOWN" anim="laa-laa-EXPORT/laa-laa-down"/>
+</character>

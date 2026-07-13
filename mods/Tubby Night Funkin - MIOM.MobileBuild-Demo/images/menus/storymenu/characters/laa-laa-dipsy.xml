@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="laa-laa-dipsy.png" width="5222" height="920">
+    <SubTexture name="confirm0000" x="1" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0001" x="1" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0002" x="470" y="1" width="551" height="917" frameX="-69" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0003" x="470" y="1" width="551" height="917" frameX="-69" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0004" x="1024" y="1" width="539" height="917" frameX="-74" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0005" x="3124" y="1" width="539" height="918" frameX="-74" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0006" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0007" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0008" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0009" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0010" x="1566" y="1" width="541" height="917" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0011" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0012" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0013" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0014" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+    <SubTexture name="confirm0015" x="4210" y="1" width="542" height="918" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0016" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0017" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0018" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0019" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0020" x="1566" y="1" width="541" height="917" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0021" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0022" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0023" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0024" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0025" x="4210" y="1" width="542" height="918" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0026" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0027" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0028" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0029" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0030" x="1566" y="1" width="541" height="917" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0031" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0032" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0033" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0034" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0035" x="4210" y="1" width="542" height="918" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0036" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0037" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0038" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0039" x="3666" y="1" width="541" height="918" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0040" x="1566" y="1" width="541" height="917" frameX="-72" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0041" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0042" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0043" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0044" x="2110" y="1" width="542" height="917" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="confirm0045" x="4210" y="1" width="542" height="918" frameX="-71" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0000" x="2655" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0001" x="2655" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0002" x="2655" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0003" x="2655" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0004" x="2655" y="1" width="466" height="917" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0005" x="4755" y="1" width="466" height="918" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0006" x="4755" y="1" width="466" height="918" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0007" x="4755" y="1" width="466" height="918" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0008" x="4755" y="1" width="466" height="918" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+	<SubTexture name="idle0009" x="4755" y="1" width="466" height="918" frameX="-147" frameY="-24" frameWidth="800" frameHeight="942"/>
+</TextureAtlas>

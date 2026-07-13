@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#4A7A60",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "dipsy-carnage",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "5Kat",
+	"displayName": "Carnage",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 170
+}

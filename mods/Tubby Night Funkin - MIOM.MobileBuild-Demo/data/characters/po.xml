@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="250" y="100" sprite="Po/po" camx="100" camy="-20" icon="po" color="#C43636">
+	<anim name="idle" anim="idle0"/>
+	<anim name="singRIGHT" anim="right0" x="-99" y="-7"/>
+	<anim name="singLEFT" anim="left0" x="20"/>
+	<anim name="singUP" anim="up0" x="-53" y="34"/>
+	<anim name="singDOWN" anim="down0" x="-55" y="-28"/>
+	<anim name="noo" anim="noo0" y="27"/>
+	<anim name="idle-alt" anim="idle fuss0"/>
+	<anim name="singRIGHT-alt" anim="right fuss0" x="-99" y="-7"/>
+	<anim name="singLEFT-alt" anim="left fuss0" x="20"/>
+	<anim name="singUP-alt" anim="up fuss0" x="-53" y="34"/>
+	<anim name="singDOWN-alt" anim="down fuss0" x="-55" y="-28"/>
+	<anim name="mic throw" anim="mic-throw" x="-3" y="30"/>
+</character>

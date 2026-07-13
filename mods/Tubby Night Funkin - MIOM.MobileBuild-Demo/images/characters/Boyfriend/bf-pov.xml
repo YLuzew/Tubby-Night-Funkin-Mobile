@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Adobe Animate version 23.0.0.407 -->
+<!-- http://www.adobe.com/products/animate.html -->
+<TextureAtlas imagePath="bf-pov.png" width="7182" height="6814">
+	<SubTexture name="bf-down0000" x="6391" y="1" width="790" height="965" frameX="-0" frameY="-28" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0001" x="6391" y="1" width="790" height="965" frameX="-0" frameY="-28" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0002" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0003" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0004" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0005" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0006" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0007" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0008" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-down0009" x="5227" y="5960" width="997" height="784" rotated="true" frameX="-7" frameY="-1" frameWidth="791" frameHeight="999"/>
+	<SubTexture name="bf-falls-to-sleep0000" x="2273" y="4420" width="1080" height="798" rotated="true" frameX="-168" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0001" x="2273" y="4420" width="1080" height="798" rotated="true" frameX="-168" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0002" x="4091" y="2213" width="760" height="1081" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0003" x="4091" y="2213" width="760" height="1081" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0004" x="5614" y="3244" width="763" height="1076" frameX="-172" frameY="-5" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0005" x="5614" y="3244" width="763" height="1076" frameX="-172" frameY="-5" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0006" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0007" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0008" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0009" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0010" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0011" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0012" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0013" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0014" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0015" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0016" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0017" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0018" x="2219" y="5219" width="1079" height="761" rotated="true" frameX="-172" frameY="-2" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0019" x="2219" y="5219" width="1079" height="761" rotated="true" frameX="-172" frameY="-2" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0020" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0021" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0022" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0023" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0024" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0025" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0026" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0027" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0028" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0029" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0030" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0031" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0032" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0033" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0034" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0035" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0036" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0037" x="4866" y="1082" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0038" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0039" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0040" x="4866" y="1" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0041" x="4866" y="2163" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0042" x="4866" y="2163" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0043" x="4852" y="3244" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0044" x="4852" y="3244" width="761" height="1080" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0045" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0046" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0047" x="5614" y="4321" width="764" height="1075" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0048" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0049" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0050" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0051" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0052" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0053" x="1" y="6049" width="1075" height="764" rotated="true" frameX="-171" frameY="-6" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0054" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0055" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0056" x="4379" y="5197" width="1078" height="762" rotated="true" frameX="-172" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0057" x="2219" y="5219" width="1079" height="761" rotated="true" frameX="-172" frameY="-2" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0058" x="2219" y="5219" width="1079" height="761" rotated="true" frameX="-172" frameY="-2" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0059" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0060" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0061" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0062" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0063" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0064" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0065" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0066" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0067" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0068" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0069" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0070" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0071" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0072" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0073" x="3354" y="4435" width="1080" height="761" rotated="true" frameX="-172" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0074" x="4490" y="4325" width="1080" height="762" rotated="true" frameX="-171" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0075" x="4490" y="4325" width="1080" height="762" rotated="true" frameX="-171" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0076" x="4490" y="4325" width="1080" height="762" rotated="true" frameX="-171" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0077" x="3299" y="5219" width="1079" height="762" rotated="true" frameX="-171" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0078" x="3299" y="5219" width="1079" height="762" rotated="true" frameX="-171" frameY="-1" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0079" x="5628" y="1" width="762" height="1077" frameX="-171" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0080" x="5628" y="1" width="762" height="1077" frameX="-171" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0081" x="5628" y="1079" width="762" height="1077" frameX="-171" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0082" x="5628" y="1079" width="762" height="1077" frameX="-171" frameY="-3" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0083" x="1" y="5290" width="1080" height="758" rotated="true" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0084" x="1" y="5290" width="1080" height="758" rotated="true" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0085" x="1" y="4533" width="1081" height="756" rotated="true" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0086" x="1" y="4533" width="1081" height="756" rotated="true" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0087" x="1" y="4533" width="1081" height="756" rotated="true" frameX="-175" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0088" x="1137" y="4532" width="1081" height="757" rotated="true" frameX="-174" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0089" x="1137" y="4532" width="1081" height="757" rotated="true" frameX="-174" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0090" x="1082" y="5982" width="1070" height="777" rotated="true" frameX="-162" frameY="-9" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0091" x="1082" y="5982" width="1070" height="777" rotated="true" frameX="-162" frameY="-9" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0092" x="2153" y="5982" width="1040" height="802" rotated="true" frameX="-137" frameY="-29" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0093" x="2153" y="5982" width="1040" height="802" rotated="true" frameX="-137" frameY="-29" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0094" x="6391" y="1933" width="629" height="614" rotated="true" frameX="-27" frameY="-243" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0095" x="6391" y="1933" width="629" height="614" rotated="true" frameX="-27" frameY="-243" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0096" x="1082" y="5290" width="587" height="637" rotated="true" frameX="-11" frameY="-368" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0097" x="7021" y="1933" width="160" height="405" rotated="true" frameX="-74" frameY="-506" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0098" x="1670" y="5414" width="526" height="415" frameX="-0" frameY="-247" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0099" x="1670" y="5414" width="526" height="415" frameX="-0" frameY="-247" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0100" x="3843" y="3295" width="588" height="254" frameX="-6" frameY="-254" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0101" x="1670" y="5290" width="542" height="123" frameX="-4" frameY="-238" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0102" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0103" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0104" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0105" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0106" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0107" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0108" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0109" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0110" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0111" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0112" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0113" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0114" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0115" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0116" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0117" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0118" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0119" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0120" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0121" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0122" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0123" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0124" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0125" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0126" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0127" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0128" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0129" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0130" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0131" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0132" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0133" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0134" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0135" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0136" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0137" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0138" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0139" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0140" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0141" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0142" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0143" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0144" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0145" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0146" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0147" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0148" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0149" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0150" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0151" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0152" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0153" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0154" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0155" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0156" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0157" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0158" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0159" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0160" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0161" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0162" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0163" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0164" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0165" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0166" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0167" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0168" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0169" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0170" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0171" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0172" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0173" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0174" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0175" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0176" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0177" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0178" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0179" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0180" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0181" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0182" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0183" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0184" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0185" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0186" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0187" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0188" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0189" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0190" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0191" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0192" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0193" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0194" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0195" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0196" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0197" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0198" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0199" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0200" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0201" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0202" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0203" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0204" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0205" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0206" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0207" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0208" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0209" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0210" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0211" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0212" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0213" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0214" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0215" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0216" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0217" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0218" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0219" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0220" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0221" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0222" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0223" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0224" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0225" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0226" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0227" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0228" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0229" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0230" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0231" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0232" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0233" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0234" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0235" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0236" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0237" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0238" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0239" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0240" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0241" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0242" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0243" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0244" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0245" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0246" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0247" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0248" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0249" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0250" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0251" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0252" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0253" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0254" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0255" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0256" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0257" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0258" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0259" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0260" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0261" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0262" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0263" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0264" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0265" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0266" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0267" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0268" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0269" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0270" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0271" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0272" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0273" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0274" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0275" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0276" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0277" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0278" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0279" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0280" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0281" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0282" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0283" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0284" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0285" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0286" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0287" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0288" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-falls-to-sleep0289" x="1226" y="3735" width="1" height="1" frameX="-0" frameY="-0" frameWidth="967" frameHeight="1084"/>
+	<SubTexture name="bf-idle0000" x="1251" y="2642" width="796" height="1092" frameX="-1" frameY="-38" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0001" x="1251" y="2642" width="796" height="1092" frameX="-1" frameY="-38" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0002" x="3388" y="3634" width="1101" height="800" rotated="true" frameX="-0" frameY="-32" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0003" x="3388" y="3634" width="1101" height="800" rotated="true" frameX="-0" frameY="-32" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0004" x="1" y="3739" width="1135" height="793" rotated="true" frameX="-26" frameY="-1" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0005" x="1" y="3739" width="1135" height="793" rotated="true" frameX="-26" frameY="-1" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0006" x="1137" y="3739" width="1135" height="792" rotated="true" frameX="-28" frameY="-1" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0007" x="1137" y="3739" width="1135" height="792" rotated="true" frameX="-28" frameY="-1" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0008" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0009" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0010" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0011" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0012" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-idle0013" x="3053" y="2497" width="789" height="1136" frameX="-30" frameY="-0" frameWidth="820" frameHeight="1136"/>
+	<SubTexture name="bf-left0000" x="4097" y="1" width="768" height="1105" frameX="-0" frameY="-9" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0001" x="4097" y="1" width="768" height="1105" frameX="-0" frameY="-9" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0002" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0003" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0004" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0005" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0006" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0007" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0008" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-left0009" x="2273" y="3659" width="1114" height="760" rotated="true" frameX="-8" frameY="-0" frameWidth="768" frameHeight="1114"/>
+	<SubTexture name="bf-miss-down0000" x="6391" y="967" width="790" height="965" frameX="-19" frameY="-62" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0001" x="4218" y="5982" width="1008" height="805" rotated="true" frameX="-0" frameY="-15" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0002" x="4218" y="5982" width="1008" height="805" rotated="true" frameX="-0" frameY="-15" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0003" x="3194" y="5982" width="1023" height="797" rotated="true" frameX="-5" frameY="-0" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0004" x="3194" y="5982" width="1023" height="797" rotated="true" frameX="-5" frameY="-0" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0005" x="3194" y="5982" width="1023" height="797" rotated="true" frameX="-5" frameY="-0" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-down0006" x="3194" y="5982" width="1023" height="797" rotated="true" frameX="-5" frameY="-0" frameWidth="810" frameHeight="1027"/>
+	<SubTexture name="bf-miss-left0000" x="4097" y="1107" width="768" height="1105" frameX="-58" frameY="-117" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0001" x="1278" y="1417" width="825" height="1224" frameX="-0" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0002" x="1278" y="1417" width="825" height="1224" frameX="-0" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0003" x="1" y="2934" width="1224" height="804" rotated="true" frameX="-22" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0004" x="1" y="2934" width="1224" height="804" rotated="true" frameX="-22" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0005" x="1" y="2934" width="1224" height="804" rotated="true" frameX="-22" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-left0006" x="1" y="2934" width="1224" height="804" rotated="true" frameX="-22" frameY="-0" frameWidth="827" frameHeight="1224"/>
+	<SubTexture name="bf-miss-right0000" x="2104" y="2497" width="948" height="1161" frameX="-0" frameY="-85" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0001" x="2185" y="1" width="962" height="1247" frameX="-9" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0002" x="2185" y="1" width="962" height="1247" frameX="-9" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0003" x="2185" y="1249" width="952" height="1247" frameX="-3" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0004" x="2185" y="1249" width="952" height="1247" frameX="-3" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0005" x="2185" y="1249" width="952" height="1247" frameX="-3" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-right0006" x="2185" y="1249" width="952" height="1247" frameX="-3" frameY="-0" frameWidth="972" frameHeight="1247"/>
+	<SubTexture name="bf-miss-up0000" x="1" y="1427" width="1276" height="739" rotated="true" frameX="-0" frameY="-149" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0001" x="1" y="1" width="709" height="1425" frameX="-16" frameY="-0" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0002" x="1" y="1" width="709" height="1425" frameX="-16" frameY="-0" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0003" x="711" y="1" width="733" height="1415" frameX="-4" frameY="-10" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0004" x="711" y="1" width="733" height="1415" frameX="-4" frameY="-10" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0005" x="711" y="1" width="733" height="1415" frameX="-4" frameY="-10" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-miss-up0006" x="711" y="1" width="733" height="1415" frameX="-4" frameY="-10" frameWidth="739" frameHeight="1425"/>
+	<SubTexture name="bf-right0000" x="3148" y="1" width="948" height="1161" frameX="-19" frameY="-0" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0001" x="3148" y="1" width="948" height="1161" frameX="-19" frameY="-0" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0002" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0003" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0004" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0005" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0006" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0007" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0008" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-right0009" x="3148" y="1163" width="942" height="1154" frameX="-0" frameY="-7" frameWidth="967" frameHeight="1161"/>
+	<SubTexture name="bf-up0000" x="1445" y="1" width="739" height="1276" frameX="-18" frameY="-0" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0001" x="1445" y="1" width="739" height="1276" frameX="-18" frameY="-0" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0002" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0003" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0004" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0005" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0006" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0007" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0008" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+	<SubTexture name="bf-up0009" x="1" y="2167" width="1249" height="766" rotated="true" frameX="-0" frameY="-24" frameWidth="766" frameHeight="1276"/>
+</TextureAtlas>

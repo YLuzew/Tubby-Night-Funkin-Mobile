@@ -1,0 +1,318 @@
+[
+    {
+        "name": "aidynkid",
+        "role": "TNF 拥有者",
+        "desc": "创建了 天线夜放克(TUBBY NIGHT FUNKIN)'",
+        "quote": "我是个哥们，她是个哥们，他也是哥们，我们都是哥们",
+        "youtube": "https://www.youtube.com/@AidynKid678",
+        "instagram": "https://www.instagram.com/stupid_aidyn/?__pwa=1",
+        "twitter": "https://x.com/Tinkywinkyworl1",
+        "color": 10247627
+    },
+    {
+        "name": "iwantthatchair",
+        "role": "联合拥有者/导演",
+        "desc": "制作了主要精灵图、美术、动画、少量代码、谱面，并执导了 TNF 团队",
+        "quote": "迟到总比没有好，伙计！我叫 Chair，我爱你们所有人",
+        "youtube": "https://www.youtube.com/@iwantthatchair",
+        "instagram": "https://www.instagram.com/iwantthatchair/?__pwa=1",
+        "twitter": "https://x.com/iWantThatChair",
+        "tiktok": "https://www.tiktok.com/@iwantthatchair",
+        "color": 5790142
+    },
+    {
+        "name": "chardery",
+        "role": "联合导演/动画师",
+        "desc": "协助过场动画以及少量代码和谱面",
+        "quote": "嘿大家，我...做了美术和动画。主要是过场动画之类的。还修了一些代码...嗯我确实干了不少活。",
+        "youtube": "https://www.youtube.com/@Chardery",
+        "twitter": "https://x.com/CharderyChardy",
+        "color": 16573003
+    },
+    {
+        "name": "tsaku",
+        "role": "程序员",
+        "desc": "模组的主要程序员",
+        "quote": "所有代码（几乎）都是我写的",
+        "youtube": "https://www.youtube.com/@tsaku4089",
+        "instagram": "https://www.instagram.com/tsaku_draw/",
+        "twitter": "https://x.com/Tsaku__",
+        "tiktok": "https://www.tiktok.com/@tsaku53",
+        "color": 8323327
+    },
+    {
+        "name": "Ronny Wonny",
+        "role": "程序员",
+        "desc": "帮忙做了一些调整",
+        "quote": "嘿！！我喜欢 FNF 的 GF！！！",
+        "youtube": "https://www.youtube.com/@FNF_Ron",
+        "twitter": "https://x.com/ronny_wonny_alt",
+        "tiktok": "https://www.tiktok.com/@ronny_wonny",
+        "color": 9885570
+    },
+    {
+        "name": "kobalt",
+        "role": "程序员",
+        "desc": "编写了故事菜单",
+        "quote": "告诉天线宝宝们 好嘞！",
+        "twitter": "https://x.com/Kobalts19",
+        "color": 12241859
+    },
+    {
+        "name": "hifish",
+        "role": "程序员",
+        "desc": "编写了一些调整",
+        "quote": "天线宝宝夜晚疯狂",
+        "twitter": "https://x.com/hifish__",
+        "color": 10672357
+    },
+    {
+        "name": "kat",
+        "role": "音乐人",
+        "desc": "创作了《Farewell》、《Chill Bill》、《Carnage》、《Bad dreams》等歌曲！",
+        "quote": "我是 Kat",
+        "youtube": "https://www.youtube.com/@fivekat",
+        "twitter": "https://x.com/fivekatt",
+        "color": 9281704
+    },
+    {
+        "name": "csauce",
+        "role": "音乐人",
+        "desc": "创作了《Custa Starz》、《George》以及 Credits/暂停音乐！",
+        "quote": "我觉得他是 Kat",
+        "youtube": "https://www.youtube.com/@Csauce0513",
+        "twitter": "https://x.com/Csauce_Real",
+        "color": 14205560
+    },
+    {
+        "name": "ewo",
+        "role": "音乐人",
+        "desc": "创作了《Gifted》、《Energetic》、《Bad Dreams》等歌曲！",
+        "quote": "Kat 很胖",
+        "youtube": "https://www.youtube.com/@ewotraskid",
+        "twitter": "https://x.com/ewotrashkid",
+        "tiktok": "https://www.tiktok.com/@trashkdddd",
+        "color": 12727453
+    },
+    {
+        "name": "lyricalmaxi",
+        "role": "音乐人/画师",
+        "desc": "创作了《George》歌曲，并绘制了《Bad Dreams》第二阶段暗影 Tubby 的精灵图",
+        "quote": "我需要一个拥抱",
+        "youtube": "https://www.youtube.com/@LyricalMaxi",
+        "twitter": "https://x.com/LyricalMaxi_",
+        "color": 7175894
+    },
+    {
+        "name": "akinmontsho",
+        "role": "音乐人",
+        "desc": "创作了《Simulation》和《Radiant》！",
+        "quote": "这里是巴西 我靠！！！1！1！嘿嘿嘿",
+        "twitter": "https://x.com/akinmonstho",
+        "color": 12941915
+    },
+    {
+        "name": "bunz",
+        "role": "画师",
+        "desc": "为《Farewell》绘制了 BF 入睡动画，以及《George》歌曲中 BF 的死亡动画",
+        "quote": "嗯，我叫 BuNZ",
+        "youtube": "https://www.youtube.com/channel/UC4CWrSfV9WyjfYignKoYjFA",
+        "twitter": "https://x.com/wsg_BuNZ",
+        "color": 7236577
+    },
+    {
+        "name": "tsuki",
+        "role": "概念/创意提供者",
+        "desc": "提供了创意，并通过让 Tsaku 加入团队拯救了模组！！",
+        "quote": "twikipedia 是 GOAT",
+        "tiktok": "https://www.tiktok.com/@zeorrr",
+        "color": 6726345
+    },
+    {
+        "name": "valkinator",
+        "role": "画师/动画师",
+        "desc": "协助了 Po 周以及《Bad Dream》开场动画",
+        "quote": "我太 skibidi 了",
+        "youtube": "https://www.youtube.com/channel/UCTwUkxBrOlaTFtcCTPkKzVg",
+        "instagram": "https://www.instagram.com/thevalkinator/?__pwa=1",
+        "color": 14649948
+    },
+    {
+        "name": "Sorfb4K",
+        "role": "画师/动画师",
+        "desc": "协助了《Bad Dreams》第四阶段过场动画",
+        "quote": "没错女士们，我参与了一个关于天线宝宝的 FNF 模组",
+        "youtube": "https://www.youtube.com/@lifeby4k",
+        "color": 15629030
+    },
+    {
+        "name": "R-Anims",
+        "role": "画师/动画师",
+        "desc": "协助了《Bad Dreams》第四阶段过场动画",
+        "quote": "嘿，我协助 Chair 和 stixx 制作了《Bad Dreams》的过场动画，希望你们喜欢这个模组和这些歌曲 :)",
+        "instagram": "",
+        "twitter": "https://x.com/ranimstheartist",
+        "color": 3591012
+    },
+    {
+        "name": "Nickanguss",
+        "role": "画师",
+        "desc": "制作了自由播放界面的渲染图",
+        "quote": "他把我们关在他那灰不溜秋的地下室里长时间工作，每次他没吃完的食物就给我们剩饭。救我们出去。求求了！！！",
+        "twitter": "https://x.com/Nickanguss",
+        "color": 10669530
+    },
+    {
+        "name": "Ant",
+        "role": "谱面师",
+        "desc": "制作了歌曲谱面",
+        "quote": "就干吧",
+        "youtube": "https://www.youtube.com/@Antwhat",
+        "instagram": "https://www.instagram.com/antwhatt_",
+        "twitter": "https://x.com/anttwhat",
+        "tiktok": "https://www.tiktok.com/@antwhatt",
+        "color": 6782660
+    },
+    {
+        "name": "bluey3214",
+        "role": "谱面师",
+        "desc": "制作了歌曲谱面，并让模组按时发布！！",
+        "quote": "相信我，我是团队里最棒的！",
+        "twitter": "https://x.com/bluey3214",
+        "color": 3893455
+    },
+    {
+        "name": "geobyte",
+        "role": "画师/动画师",
+        "desc": "制作了 Custard 的尖叫和《Bad Dreams》玩具阶段开场动画",
+        "quote": "大家好，这是我的致谢语",
+        "twitter": "https://x.com/Mr_Geobyte",
+        "color": 13393502
+    },
+    {
+        "name": "JavDoesShit",
+        "role": "画师/动画师",
+        "desc": "协助了 Po 的过场动画",
+        "quote": "便便屁股 12",
+        "twitter": "https://x.com/JavDoesShit",
+        "color": 2958653
+    },
+    {
+        "name": "Vinx",
+        "role": "配音演员",
+        "desc": "为 Po 配音",
+        "quote": "我就是那个家伙” —— 来自《冲突学校模拟》的 Zakk 2026",
+        "youtube": "https://www.youtube.com/@viinxiie",
+        "instagram": "https://www.instagram.com/viinxiie?igsh=MTFmeHplNWx0NHV6bA%3D%3D&utm_source=qr",
+        "tiktok": "https://www.tiktok.com/@viixiie?_t=ZT-8uqt7q8Pgjb&_r=1",
+        "color": 16237246
+    },
+    {
+        "name": "sojawooz",
+        "role": "配音演员",
+        "desc": "为 BF、GF、Dipsy 和暗影 Tubby 配音",
+        "quote": "如果你听到有人说话，那就是我，哈哈",
+        "twitter": "https://x.com/SojaWoozVA",
+        "color": 14582745
+    },
+    {
+        "name": "v1nkku",
+        "role": "画师/创意提供者",
+        "desc": "制作了 Credits 界面的布局！！",
+        "quote": "我们... 就是 天线夜放克(TUBBY NIGHT FUNKIN)",
+        "instagram": "https://www.instagram.com/v1nkku_/",
+        "twitter": "https://x.com/v1nkku",
+        "color": 13199031
+    },
+    {
+        "name": "rc gnome",
+        "role": "画师/动画师",
+        "desc": "制作了美术/概念图，帮助绘制了 Custard 闪回的草图，并制作了贴纸",
+        "quote": "吼吼吼哈哈哈",
+        "twitter": "https://x.com/Sosa370903Iker",
+        "color": 14313604
+    },
+    {
+        "name": "diego",
+        "role": "概念画师",
+        "desc": "协助了 George Tubby 相关内容",
+        "quote": "啵噜啵噜啪嗒嘭 George 嘎巴咕",
+        "twitter": "https://x.com/diegoguylittle",
+        "tiktok": "https://www.tiktok.com/@8d1dieguito?lang=en",
+        "color": 14118525
+    },
+    {
+        "name": "Jolidog8",
+        "role": "画师",
+        "desc": "为 Po 周制作了背景中的 Booper 小动画",
+        "quote": "我要揉揉你的肚子",
+        "youtube": "https://www.youtube.com/channel/UCh57vUmHgU5QkaTPQDtxUHQ",
+        "twitter": "https://x.com/Jolidog8",
+        "color": 16631902
+    },
+    {
+        "name": "Crisyipi",
+        "role": "宣传画师",
+        "desc": "制作了宣传图",
+        "quote": "你好呀孩子们，天线宝宝 FNF，去看 Neo Genesis 吧，是的，向我妻子 ivi 问好，你好 ivi",
+        "youtube": "https://www.youtube.com/channel/UCnRyiN4Fio29OMRr0Y_Y-eg",
+        "twitter": "https://x.com/CrisYipi0mg",
+        "color": 16745914
+    },
+    {
+        "name": "h3nriqu3_uwu",
+        "role": "画师",
+        "desc": "制作了宣传图和自由播放背景菜单",
+        "quote": "你好，马里奥",
+        "instagram": "https://www.instagram.com/h3nriqu3_uwu/?__pwa=1",
+        "twitter": "https://x.com/H3NRIQUE_UWU",
+        "color": 10066380
+    },
+    {
+        "name": "redby",
+        "role": "画师",
+        "desc": "制作了 ZalgoDVD 的精灵图",
+        "quote": "爱你们所有人 :D",
+        "twitter": "https://x.com/Redby2005",
+        "color": 14184057
+    },
+    {
+        "name": "MIOM",
+        "role": "手机移植",
+        "desc": "手机移植创作者(几乎全部)",
+        "quote": "嗯，好的。",
+        "bilibili": "https://b23.tv/EVCohRR",
+        "color": 14184057
+    },
+    {
+        "name": "Luzew",
+        "role": "手机移植/中文翻译",
+        "desc": "手机移植创作者(基本没出力)/制作了天线夜放克(TUBBY NIGHT FUNKIN)的中文版本",
+        "quote": "让我们向伟大的愚者先生祈祷",
+        "bilibili": "https://space.bilibili.com/635525728",
+        "color": 10669530
+    },
+    {
+        "name": "ClaireDesignPro",
+        "role": "手机移植",
+        "desc": "手机移植测试员",
+        "quote": "？",
+        "bilibili": "https://b23.tv/afUgZcS",
+        "color": 16631902
+    },
+    {
+        "name": "LS_Xenith",
+        "role": "手机移植",
+        "desc": "手机移植测试员",
+        "quote": "我很懒。",
+        "bilibili": "https://m.bilibili.com/space/1497180547",
+        "color": 13199031
+    },
+    {
+        "name": "你!!!",
+        "role": "玩家",
+        "desc": "超棒的存在",
+        "quote": "感谢你游玩本模组并给予所有的热爱与支持！！此致敬礼，天线夜放克(TUBBY NIGHT FUNKIN) 团队",
+        "color": 10066380
+    }
+]

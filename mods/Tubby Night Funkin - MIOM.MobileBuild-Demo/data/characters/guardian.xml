@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character x="690" y="50" sprite="guardian" flipX="true" camx="-200" camy="-10" isPlayer="true" icon="white" color="#E1E1E1">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="62" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-127" y="-9" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-22" y="64" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="19" y="-74" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="miss-left0" x="73" y="-1" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="miss-right0" x="-126" y="-11" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="miss-up0" x="-23" y="63" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="miss-down0" x="30" y="-82" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="alt-left" x="109" y="-10" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="alt-right" x="-76" y="-35" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="alt-up" x="-88" y="30" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="alt-down" x="-33" y="-98" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="alt-right" x="-96" y="-35" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="alt-up" x="-48" y="30" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="alt-down" x="-38" y="-98" fps="24" loop="false"/>
+</character>

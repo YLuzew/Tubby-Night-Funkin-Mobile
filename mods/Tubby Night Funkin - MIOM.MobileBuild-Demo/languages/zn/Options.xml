@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<language>
+	<str id="optionsMenu.desc-missing">暂无描述</str>
+
+	<group name="OptionsMenu">
+		<str id="optionsMenu.advanced">高级</str>
+		<str id="optionsMenu.header.title">选项菜单</str>
+		<str id="optionsMenu.header.desc">选择一个分类以继续。</str>
+
+		<str id="optionsTree.controls-name">控制</str>
+		<str id="optionsTree.controls-desc">更改玩家1和玩家2的控制设置！</str>
+
+		<str id="optionsTree.gameplay-name">游戏玩法</str>
+		<str id="optionsTree.gameplay-desc">更改游戏玩法选项，如下落式音符、滚动速度、粗俗内容过滤...</str>
+		<str id="optionsTree.gameplay.advanced-desc">更改更高级的选项，如流式音频...</str>
+
+		<str id="optionsTree.appearance-name">外观</str>
+		<str id="optionsTree.appearance-desc">更改外观选项，如菜单闪烁效果...</str>
+		<str id="optionsTree.appearance.advanced-desc">更改更高级的选项，如仅显存精灵、抗锯齿、着色器。</str>
+
+		<str id="optionsTree.language-name">语言</str>
+		<str id="optionsTree.language-desc">更改引擎使用的语言。</str>
+
+		<str id="optionsTree.miscellaneous-name">杂项</str>
+		<str id="optionsTree.miscellaneous-desc">使用此菜单重置存档数据或引擎设置。</str>
+
+		<str id="optionsTree.debug-name">调试选项</str>
+		<str id="optionsTree.debug-desc">开发者模式的调试选项。</str>
+
+		<str id="optionsTree.mobile-name">移动端选项</str>
+		<str id="optionsTree.mobile-desc">更改与移动设备或触摸控制相关的选项。</str>
+	</group>
+
+	<group name="KeybindOptions" prefix="KeybindsOptions.">
+		<str id="left">左</str>
+		<str id="down">下</str>
+		<str id="up">上</str>
+		<str id="right">右</str>
+
+		<str id="category.notes">音符</str>
+
+		<str id="category.ui">界面</str>
+		<group name="ui" prefix="ui.">
+			<str id="accept">确认</str>
+			<str id="back">返回</str>
+			<str id="reset">重置</str>
+			<str id="pause">暂停</str>
+			<str id="changeMode">切换模式</str>
+		</group>
+
+		<str id="category.engine">引擎</str>
+		<group name="engine" prefix="engine.">
+			<str id="switchMod">切换模组</str>
+			<str id="fpsCounter">显示FPS</str>
+		</group>
+
+		<str id="category.volume">音量</str>
+		<str id="volume.up">增大</str>
+		<str id="volume.down">减小</str>
+		<str id="volume.mute">静音</str>
+
+		<str id="category.developer">开发者</str>
+		<group name="developer" prefix="developer.">
+			<str id="devMenus">开发者菜单</str>
+			<str id="openConsole">打开控制台</str>
+			<str id="reloadState">重载状态</str>
+		</group>
+	</group>
+
+	<group name="AppearanceOptions" prefix="AppearanceOptions.">
+		<str id="framerate-name">帧率</str>
+		<str id="framerate-desc">不言自明，不是吗？</str>
+
+		<str id="flashingMenu-name">菜单闪烁</str>
+		<str id="flashingMenu-desc">如果取消勾选，将禁用主菜单中选择选项时的菜单闪烁，其他闪烁效果也会变慢。</str>
+
+		<str id="colorHealthBar-name">彩色血条</str>
+		<str id="colorHealthBar-desc">如果取消勾选，游戏将使用第6周原版FNF游戏中的红/绿色血条。</str>
+
+		<str id="week6PixelPerfect-name">像素完美效果</str>
+		<str id="week6PixelPerfect-desc">如果勾选，第6周或其他像素风关卡将启用像素完美效果，对齐屏幕上的每个像素。</str>
+
+		<group name="AppearanceOptionsAdvanced" prefix="Advanced.">
+			<str id="quality-name">画质</str>
+			<str id="quality-desc">选择画质模式，"低" = 禁用所有可能影响游戏流畅度的重度视觉效果，"高" = 启用所有视觉效果，但会牺牲性能，"自定义" = 允许在高级选项中自定义可用选项。</str>
+			<str id="quality-low">低</str>
+			<str id="quality-high">高</str>
+			<str id="quality-custom">自定义</str>
+
+			<str id="antialiasing-name">抗锯齿</str>
+			<str id="antialiasing-desc">如果取消勾选，将禁用所有精灵的抗锯齿。可以提升性能，但代价是精灵会更锐利、更具像素感。</str>
+
+			<str id="lowMemoryMode-name">低内存模式</str>
+			<str id="lowMemoryMode-desc">如果勾选，将禁用关卡中的某些背景元素以减少内存使用。</str>
+
+			<str id="gameplayShaders-name">游戏着色器</str>
+			<str id="gameplayShaders-desc">如果取消勾选，游戏内着色器（如Thorns的色差等视觉效果）将不会被加载；这在性能较弱的设备上可能有帮助。</str>
+
+			<str id="gpuOnlyBitmaps-name">仅显存精灵</str>
+			<str id="gpuOnlyBitmaps-desc">如果勾选，将仅把位图存储在GPU中，释放大量内存（实验性功能）。关闭此选项将消耗大量内存，尤其是对于较大的精灵。如果不确定，请保持开启。</str>
+		</group>
+		<str id="gpuOnlyBitmaps-name">仅显存精灵</str>
+		<str id="gpuOnlyBitmaps-desc">如果勾选，将仅把位图存储在GPU中，释放大量内存（实验性功能）。关闭此选项将消耗大量内存，尤其是对于较大的精灵。如果不确定，请保持开启。</str>
+	</group>
+
+	<group name="MobileOptions" prefix="MobileOptions.">
+		<str id="extraHints-name">额外提示</str>
+		<str id="extraHints-desc">选择您希望在命中框上显示多少额外提示。</str>
+
+		<str id="hitboxAlpha-name">命中框不透明度</str>
+		<str id="hitboxAlpha-desc">更改命中框的不透明度</str>
+
+		<str id="oldPadTexture-name">使用旧版触摸板纹理</str>
+		<str id="oldPadTexture-desc">如果勾选，触摸板将使用之前使用的旧纹理</str>
+
+		<str id="touchPadAlpha-name">触摸板不透明度</str>
+		<str id="touchPadAlpha-desc">更改触摸板的不透明度</str>
+
+		<str id="hitboxType-name">命中框样式</str>
+		<str id="hitboxType-desc">选择您希望命中框的外观！</str>
+
+		<str id="hitboxPos-name">命中框位置</str>
+		<str id="hitboxPos-desc">如果勾选，命中框将放置在屏幕底部，否则将保持在顶部。</str>
+
+		<str id="screenTimeOut-name">允许屏幕休眠</str>
+		<str id="screenTimeOut-desc">如果勾选，当玩家不活动时，手机将进入睡眠模式。</str>
+
+		<str id="useExternal-name">使用外部文件夹</str>
+		<str id="useExternal-desc">如果勾选，引擎将使用 .CodenameEngine 作为模组和附加组件文件夹。</str>
+
+		<str id="storageTypeChange-title">警告：存储类型已更改！</str>
+		<str id="storageTypeChange-body">存储类型已更改。\n需要重启才能使此更改生效。\n任何先前安装的模组必须在此重启后手动移动到新存储类型的目录中。\n\n按确定重置游戏并应用更改。</str>
+	</group>
+
+	<group name="GameplayOptions" prefix="GameplayOptions.">
+		<str id="downscroll-name">下落式音符</str>
+		<str id="downscroll-desc">如果勾选，音符将从上往下移动（下落式）。</str>
+
+		<str id="ghostTapping-name">幽灵击打</str>
+		<str id="ghostTapping-desc">如果取消勾选，击打没有音符的键位会导致失误。</str>
+
+		<str id="naughtyness-name">粗俗内容过滤</str>
+		<str id="naughtyness-desc">如果取消勾选，将屏蔽第7周及之后的过场动画中的粗俗内容。</str>
+
+		<str id="camZoomOnBeat-name">镜头随拍缩放</str>
+		<str id="camZoomOnBeat-desc">如果取消勾选，将停止摄像机每4拍缩放一次。</str>
+
+		<str id="autoPause-name">自动暂停</str>
+		<str id="autoPause-desc">如果勾选，切换窗口将暂停游戏。</str>
+
+		<str id="volumeMusic-name">音乐音量</str>
+		<str id="volumeMusic-desc">仅更改音乐的音量，而不是所有声音。</str>
+
+		<str id="volumeSFX-name">音效音量</str>
+		<str id="volumeSFX-desc">仅更改音效的音量，而不是所有声音。</str>
+
+		<str id="songOffset-name">歌曲偏移</str>
+		<str id="songOffset-desc">更改歌曲开始时的偏移量。</str>
+
+		<group name="GameplayOptionsAdvanced" prefix="Advanced.">
+			<str id="windowSize-name">窗口大小</str>
+			<str id="windowSize-desc">...</str>
+
+			<str id="streamedMusic-name">流式音乐</str>
+			<str id="streamedMusic-desc">如果勾选，仅音乐将使用流式音频，同样会释放大量内存，但缺点是如果同时有更多音频被流式传输，CPU使用率会更高（实验性功能）。关闭此选项将消耗大量内存，尤其是对于较长的歌曲。如果不确定，请保持开启。</str>
+
+			<str id="streamedVocals-name">流式人声</str>
+			<str id="streamedVocals-desc">如果勾选，且流式音乐已开启，人声也将被流式传输，如果歌曲使用大量人声，将影响性能（实验性功能）。如果不确定，请保持关闭。</str>
+		</group>
+	</group>
+
+	<group name="LanguageOptions" prefix="LanguageOptions.">
+		<str id="language-name">语言</str>
+		<str id="language-desc">语言由 {0} 提供 (版本: {1})</str>
+	</group>
+
+	<group name="MiscOptions" prefix="MiscOptions.">
+		<str id="forceCrash-name">强制崩溃</str>
+		<str id="forceCrash-desc">选择此选项以强制崩溃。</str>
+
+		<str id="betaUpdates-name">夜间版更新</str>
+		<str id="betaUpdates-desc">如果勾选，更新检查还将包括夜间构建版本（基本上是引擎仓库的提交更新，使用 Actions 的构建）。</str>
+
+		<str id="checkForUpdates-name">检查更新</str>
+		<str id="checkForUpdates-desc">选择此选项以检查新的引擎更新。</str>
+		<str id="checkForUpdates-noUpdateFound">未找到更新。</str>
+
+		<str id="devMode-name">开发者模式</str>
+		<str id="devMode-desc">如果勾选，您将能够访问开发者功能，如某些键位绑定、编辑器、开发者选项、状态重载、控制台等。</str>
+
+		<str id="allowConfigWarning-name">显示模组包警告</str>
+		<str id="allowConfigWarning-desc">如果勾选，当模组包存在一些警告（如缺少配置、不兼容的版本等）时，游戏开始时将弹出一个弹出窗口。</str>
+
+		<str id="resetSaveData-name">重置存档数据</str>
+		<str id="resetSaveData-desc">选择此选项以重置存档数据。这将删除您所有的最高分。</str>
+	</group>
+
+	<group name="DebugOptions" prefix="DebugOptions.">
+		<str id="title">调试选项</str>
+		<str id="desc">使用此菜单启用或禁用调试选项。</str>
+
+		<str id="showConsole-name">显示控制台</str>
+		<str id="showConsole-desc">选择此项以显示调试控制台，其中包含有关游戏的日志信息。</str>
+
+		<str id="editorsResizable-name">可调整大小的编辑器</str>
+		<str id="editorsResizable-desc">如果勾选，将允许编辑器渲染超出FNF基础1280x720分辨率（允许更多细节和空间...）</str>
+
+		<str id="bypassEditorsResize-name">绕过编辑器最小尺寸限制</str>
+		<str id="bypassEditorsResize-desc">禁用调整编辑器大小的最小分辨率限制（需要启用可调整大小的编辑器）。</str>
+
+		<str id="editorSFX-name">编辑器音效</str>
+		<str id="editorSFX-desc">如果勾选，在编辑器上工作时将播放音效（例如：勾选复选框时会播放音效...）</str>
+
+		<str id="editorCharterPrettyPrint-name">谱面美化打印</str>
+		<str id="editorCharterPrettyPrint-desc">如果勾选，从谱面编辑器保存的文件将被格式化以便于查看。</str>
+
+		<str id="editorCharacterPrettyPrint-name">角色美化打印</str>
+		<str id="editorCharacterPrettyPrint-desc">如果勾选，从角色编辑器保存的文件将被格式化以便于查看。</str>
+
+		<str id="editorStagePrettyPrint-name">舞台美化打印</str>
+		<str id="editorStagePrettyPrint-desc">如果勾选，从舞台编辑器保存的文件将被格式化以便于查看。</str>
+
+		<str id="intensiveBlur-name">高强度模糊</str>
+		<str id="intensiveBlur-desc">如果勾选，将使用更密集的模糊效果，可能会更卡顿但看起来更好。</str>
+
+		<str id="charterAutoSaves-name">编辑器自动保存</str>
+		<str id="charterAutoSaves-desc">如果勾选，这将自动保存您在编辑器中的文件，使用下面列出的设置。</str>
+
+		<str id="charterAutoSaveTime-name">自动保存间隔</str>
+		<str id="charterAutoSaveTime-desc">这控制编辑器自动保存文件的频率（以秒为单位...）</str>
+
+		<str id="charterAutoSaveWarningTime-name">保存前警告时间</str>
+		<str id="charterAutoSaveWarningTime-desc">这控制在编辑器自动保存之前警告您的时间（以秒为单位...，0表示禁用）</str>
+
+		<str id="charterAutoSavesSeparateFolder-name">自动保存到独立文件夹</str>
+		<str id="charterAutoSavesSeparateFolder-desc">如果勾选，这将在单独的文件夹中自动保存您的文件，并带有时间戳，而不是覆盖您当前的文件。(song/autosaves/)</str>
+
+		<str id="songOffsetAffectEditors-name">谱面编辑器中使用偏移</str>
+		<str id="songOffsetAffectEditors-desc">如果勾选，这也将在谱面编辑器中启用歌曲偏移选项。</str>
+	</group>
+</language>

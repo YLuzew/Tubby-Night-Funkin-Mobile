@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="180" y="600" sprite="LaaLaa/depressed laa laa" camx="120" camy= "10" flipX="true" isPlayer="true" icon="laalaa-outline">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="left0" x="4" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-2" y="1" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="1" y="0" fps="24" loop="false"/>
+</character>

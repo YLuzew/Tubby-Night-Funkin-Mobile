@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="-100" sprite="Girlfriend/gf-tubbie-player-phase-2" flipX="true" camx="-60" camy="-150" isPlayer="true" icon="gf" color="#B56530">
+	<anim name="danceLeft" anim="gf-idle" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13"/>
+	<anim name="danceRight" anim="gf-idle" x="0" y="0" fps="24" loop="false" indices="14,15,16,17,18,19,20,21,22,23,24,25,26,27"/>
+	<anim name="singRIGHT" anim="gf-right" x="-65" y="-25" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="gf-left" x="90" y="-55" fps="24" loop="false"/>
+	<anim name="singUP" anim="gf-up" x="-130" y="90" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="gf-down" x="35" y="-155" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="gf-miss-down" x="55" y="-89" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="gf-miss-left" x="80" y="-1" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="gf-miss-right" x="-97" y="3" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="gf-miss-up" x="-22" y="36" fps="24" loop="false"/>
+</character>

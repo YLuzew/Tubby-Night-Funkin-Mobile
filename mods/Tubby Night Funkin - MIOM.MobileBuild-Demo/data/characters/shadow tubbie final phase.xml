@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" sprite="ShadowTubbie/Shadow-tubbie-final-phase" icon="shadow tubbie" color="#232323">
+	<anim name="idle" anim="shadow-tubbie-idle" x="-9" y="-18"/>
+	<anim name="singDOWN" anim="shadow-tubbie-down" x="-197" y="-188"/>
+	<anim name="singRIGHT" anim="shadow-tubbie-right" x="-204" y="-15"/>
+	<anim name="singLEFT" anim="shadow-tubbie-left" x="26" y="-38"/>
+	<anim name="singUP" anim="shadow-tubbie-up" x="-49"/>
+</character>

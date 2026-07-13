@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Shadow-tubbie-final-phase.png" width="5758" height="5804">
+	<SubTexture name="shadow-tubbie-down0000" x="1" y="2387" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0001" x="1" y="2387" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0002" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0003" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0004" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0005" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0006" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0007" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0008" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-down0009" x="4401" y="4651" width="1356" height="951" frameX="-0" frameY="-0" frameWidth="1356" frameHeight="951"/>
+	<SubTexture name="shadow-tubbie-idle0000" x="1700" y="1" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0001" x="1700" y="1" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0002" x="1700" y="1140" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0003" x="1700" y="1140" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0004" x="1700" y="2279" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0005" x="1700" y="2279" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0006" x="3469" y="1" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0007" x="3469" y="1" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0008" x="3469" y="1140" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0009" x="3469" y="2279" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0010" x="1" y="3418" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0011" x="1770" y="3418" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0012" x="1770" y="3418" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-idle0013" x="1770" y="3418" width="1768" height="1138" frameX="-0" frameY="-0" frameWidth="1768" frameHeight="1138"/>
+	<SubTexture name="shadow-tubbie-left0000" x="1437" y="4557" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0001" x="1437" y="4557" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0002" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0003" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0004" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0005" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0006" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0007" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0008" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-left0009" x="2919" y="4651" width="1481" height="1152" frameX="-0" frameY="-0" frameWidth="1481" frameHeight="1152"/>
+	<SubTexture name="shadow-tubbie-right0000" x="1" y="1" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0001" x="1" y="1" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0002" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0003" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0004" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0005" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0006" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0007" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0008" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-right0009" x="1" y="1194" width="1698" height="1192" frameX="-0" frameY="-0" frameWidth="1698" frameHeight="1192"/>
+	<SubTexture name="shadow-tubbie-up0000" x="3539" y="3418" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0001" x="3539" y="3418" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0002" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0003" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0004" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0005" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0006" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0007" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0008" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+	<SubTexture name="shadow-tubbie-up0009" x="1" y="4557" width="1435" height="1232" frameX="-0" frameY="-0" frameWidth="1435" frameHeight="1232"/>
+</TextureAtlas>

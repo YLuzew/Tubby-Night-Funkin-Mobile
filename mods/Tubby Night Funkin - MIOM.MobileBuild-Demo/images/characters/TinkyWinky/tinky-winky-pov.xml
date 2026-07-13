@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="tinky-winky-pov.png" width="5535" height="5212">
+  <!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tinky-alt-down0000" x="4529" y="1626" width="557" height="771" frameX="-0" frameY="-5" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0001" x="4529" y="1626" width="557" height="771" frameX="-0" frameY="-5" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0002" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0003" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0004" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0005" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0006" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0007" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0008" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-down0009" x="4532" y="2398" width="547" height="776" frameX="-0" frameY="-0" frameWidth="557" frameHeight="776"/>
+	<SubTexture name="tinky-alt-left0000" x="4560" y="4741" width="795" height="450" rotated="true" frameX="-0" frameY="-3" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0001" x="4560" y="4741" width="795" height="450" rotated="true" frameX="-0" frameY="-3" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0002" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0003" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0004" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0005" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0006" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0007" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0008" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-left0009" x="5082" y="790" width="452" height="798" frameX="-5" frameY="-0" frameWidth="457" frameHeight="799"/>
+	<SubTexture name="tinky-alt-right0000" x="1350" y="4600" width="811" height="478" rotated="true" frameX="-1" frameY="-0" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0001" x="1350" y="4600" width="811" height="478" rotated="true" frameX="-1" frameY="-0" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0002" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0003" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0004" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0005" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0006" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0007" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0008" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-right0009" x="2953" y="4673" width="808" height="470" rotated="true" frameX="-0" frameY="-3" frameWidth="479" frameHeight="812"/>
+	<SubTexture name="tinky-alt-up0000" x="499" y="4566" width="850" height="484" rotated="true" frameX="-3" frameY="-0" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0001" x="499" y="4566" width="850" height="484" rotated="true" frameX="-3" frameY="-0" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0002" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0003" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0004" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0005" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0006" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0007" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0008" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-alt-up0009" x="1" y="4368" width="497" height="843" frameX="-0" frameY="-7" frameWidth="497" frameHeight="850"/>
+	<SubTexture name="tinky-down0000" x="1464" y="3898" width="620" height="701" frameX="-0" frameY="-6" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0001" x="1464" y="3898" width="620" height="701" frameX="-0" frameY="-6" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0002" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0003" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0004" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0005" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0006" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0007" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0008" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-down0009" x="4464" y="4033" width="597" height="707" frameX="-13" frameY="-0" frameWidth="620" frameHeight="707"/>
+	<SubTexture name="tinky-huh0000" x="674" y="1" width="676" height="788" frameX="-0" frameY="-29" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0001" x="674" y="1" width="676" height="788" frameX="-0" frameY="-29" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0002" x="1" y="1" width="672" height="794" frameX="-1" frameY="-23" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0003" x="1" y="1" width="672" height="794" frameX="-1" frameY="-23" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0004" x="3895" y="1626" width="633" height="817" frameX="-33" frameY="-0" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0005" x="3895" y="1626" width="633" height="817" frameX="-33" frameY="-0" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0006" x="647" y="3387" width="816" height="639" rotated="true" frameX="-28" frameY="-1" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0007" x="3894" y="1" width="639" height="816" frameX="-28" frameY="-1" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0008" x="1" y="1451" width="810" height="648" rotated="true" frameX="-24" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0009" x="1" y="1451" width="810" height="648" rotated="true" frameX="-24" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0010" x="1626" y="652" width="807" height="650" rotated="true" frameX="-24" frameY="-10" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0011" x="1626" y="652" width="807" height="650" rotated="true" frameX="-24" frameY="-10" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0012" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0013" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0014" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0015" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0016" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0017" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0018" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0019" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0020" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0021" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0022" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0023" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0024" x="1" y="2100" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0025" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0026" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0027" x="2162" y="1" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0028" x="2434" y="650" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0029" x="2434" y="650" width="808" height="648" rotated="true" frameX="-24" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0030" x="1627" y="1303" width="808" height="649" rotated="true" frameX="-25" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0031" x="1627" y="1303" width="808" height="649" rotated="true" frameX="-25" frameY="-9" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0032" x="1627" y="1953" width="809" height="648" rotated="true" frameX="-26" frameY="-8" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0033" x="812" y="2091" width="809" height="648" rotated="true" frameX="-26" frameY="-8" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0034" x="1351" y="1" width="810" height="650" rotated="true" frameX="-25" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0035" x="1351" y="1" width="810" height="650" rotated="true" frameX="-25" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0036" x="1" y="796" width="812" height="654" rotated="true" frameX="-21" frameY="-5" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0037" x="1" y="796" width="812" height="654" rotated="true" frameX="-21" frameY="-5" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0038" x="814" y="1441" width="812" height="649" rotated="true" frameX="-25" frameY="-5" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0039" x="814" y="1441" width="812" height="649" rotated="true" frameX="-25" frameY="-5" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0040" x="814" y="790" width="811" height="650" rotated="true" frameX="-25" frameY="-6" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0041" x="814" y="790" width="811" height="650" rotated="true" frameX="-25" frameY="-6" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0042" x="1" y="2749" width="645" height="810" frameX="-31" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0043" x="1" y="2749" width="645" height="810" frameX="-31" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0044" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0045" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0046" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0047" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0048" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0049" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0050" x="2437" y="2593" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0051" x="1622" y="2602" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0052" x="810" y="2740" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0053" x="810" y="2740" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0054" x="2971" y="1" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0055" x="2971" y="1" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0056" x="3247" y="648" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0057" x="3247" y="648" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0058" x="3248" y="1459" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0059" x="3248" y="1459" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0060" x="3248" y="1459" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0061" x="3248" y="2270" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0062" x="3248" y="3081" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0063" x="3248" y="3081" width="646" height="810" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0064" x="2971" y="1" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0065" x="2971" y="1" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0066" x="2433" y="3240" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0067" x="2433" y="3240" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0068" x="2437" y="2593" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0069" x="2437" y="2593" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0070" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0071" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0072" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0073" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0074" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0075" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0076" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0077" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0078" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0079" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0080" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0081" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0082" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0083" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0084" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0085" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0086" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0087" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0088" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0089" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0090" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0091" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0092" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0093" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0094" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0095" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0096" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0097" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0098" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0099" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0100" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0101" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0102" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0103" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0104" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0105" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0106" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0107" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0108" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0109" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0110" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0111" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0112" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0113" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0114" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0115" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0116" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0117" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0118" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0119" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0120" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0121" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0122" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0123" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0124" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0125" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0126" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0127" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0128" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0129" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0130" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0131" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0132" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0133" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0134" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0135" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0136" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0137" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0138" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0139" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0140" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0141" x="2436" y="1299" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0142" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0143" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-huh0144" x="2437" y="1946" width="810" height="646" rotated="true" frameX="-30" frameY="-7" frameWidth="676" frameHeight="817"/>
+	<SubTexture name="tinky-idle0000" x="2429" y="3887" width="649" height="779" frameX="-0" frameY="-27" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0001" x="2429" y="3887" width="649" height="779" frameX="-0" frameY="-27" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0002" x="3895" y="3247" width="647" height="785" frameX="-1" frameY="-21" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0003" x="3895" y="3247" width="647" height="785" frameX="-1" frameY="-21" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0004" x="3895" y="2444" width="636" height="802" frameX="-13" frameY="-4" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0005" x="3895" y="2444" width="636" height="802" frameX="-13" frameY="-4" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0006" x="3895" y="818" width="646" height="807" frameX="-7" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0007" x="3895" y="818" width="646" height="807" frameX="-7" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0008" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0009" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0010" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0011" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0012" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle0013" x="1621" y="3249" width="807" height="648" rotated="true" frameX="-6" frameY="-0" frameWidth="655" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0000" x="4534" y="1" width="548" height="788" frameX="-0" frameY="-18" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0001" x="4534" y="1" width="548" height="788" frameX="-0" frameY="-18" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0002" x="4542" y="790" width="539" height="794" frameX="-5" frameY="-12" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0003" x="4542" y="790" width="539" height="794" frameX="-5" frameY="-12" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0004" x="4543" y="3175" width="519" height="803" frameX="-16" frameY="-3" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0005" x="4543" y="3175" width="519" height="803" frameX="-16" frameY="-3" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0006" x="547" y="4027" width="807" height="538" rotated="true" frameX="-7" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0007" x="547" y="4027" width="807" height="538" rotated="true" frameX="-7" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0008" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0009" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0010" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0011" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0012" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-idle-alt0013" x="1" y="3560" width="545" height="807" frameX="-4" frameY="-0" frameWidth="549" frameHeight="807"/>
+	<SubTexture name="tinky-left0000" x="5083" y="1" width="404" height="717" frameX="-0" frameY="-8" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0001" x="5083" y="1" width="404" height="717" frameX="-0" frameY="-8" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0002" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0003" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0004" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0005" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0006" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0007" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0008" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-left0009" x="5062" y="3979" width="399" height="725" frameX="-7" frameY="-0" frameWidth="406" frameHeight="726"/>
+	<SubTexture name="tinky-right0000" x="3079" y="3892" width="604" height="780" frameX="-4" frameY="-0" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0001" x="3079" y="3892" width="604" height="780" frameX="-4" frameY="-0" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0002" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0003" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0004" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0005" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0006" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0007" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0008" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-right0009" x="3684" y="4033" width="779" height="598" rotated="true" frameX="-0" frameY="-1" frameWidth="608" frameHeight="781"/>
+	<SubTexture name="tinky-up0000" x="3762" y="4741" width="797" height="469" rotated="true" frameX="-0" frameY="-0" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0001" x="3762" y="4741" width="797" height="469" rotated="true" frameX="-0" frameY="-0" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0002" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0003" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0004" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0005" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0006" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0007" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0008" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+	<SubTexture name="tinky-up0009" x="2162" y="4667" width="790" height="484" rotated="true" frameX="-0" frameY="-7" frameWidth="484" frameHeight="798"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="240" y="30" sprite="girlfriend/gf-po-week-dark" icon="gf" color="#000000">
+	<anim name="danceLeft" anim="gf-sit" indices="30,0..14"/>
+	<anim name="danceRight" anim="gf-sit" indices="15..29"/>
+</character>

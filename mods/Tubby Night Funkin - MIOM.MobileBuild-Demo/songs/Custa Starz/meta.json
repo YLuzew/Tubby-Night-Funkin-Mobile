@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#B6C519",
+	"opponentModeAllowed": false,
+	"icon": "dispalala",
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "Csauce (feat. 5Kat)",
+	"displayName": "Custa Starz",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

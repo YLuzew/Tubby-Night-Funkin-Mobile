@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#8F71FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"HARD",
+		"EASY"
+	],
+	"icon": "Tinky winky",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "轻轻 告别",
+	"artists": "5Kat",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

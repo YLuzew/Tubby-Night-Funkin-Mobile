@@ -1,0 +1,45 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.2" name="stage" folder="stages/mainlandV2/" startCamPosY="-1000" startCamPosX="1285">
+    <sprite name="sky"       x="-800" y="-400"    sprite="sky"   scale="1" scroll="0"/>
+    <sprite name="mountain"       x="-1000" y="-920"    sprite="mountains"   scale="1" scroll="0.5"/>
+    <sprite name="ground"       x="-1500" y="-650"    sprite="ground"   scale="1.2"/>
+    
+    <high-memory>
+        <sprite name="fog_back"       x="-1500" y="-1000"    sprite="fog-back" scale="1" scroll="0.8" >
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+    </high-memory>
+
+    <sprite name="tree"       x="-355" y="-1000"    sprite="po-tree"   scale="1"  />
+    <sprite name="treealt"       x="-355" y="-1000"    sprite="po-tree-alt"   scale="1"  />
+    <sprite name="po"         x="1250" y="-110"     sprite="Poded"     scale="1"  />
+    <sprite name="po_alt"     x="1050" y="470"     sprite="PodedALT"  scale="1"  />
+    <sprite name="poeyes"     x="1325" y="92"       sprite="eyes"      scale="1" scrollx="0.99" />
+    <sprite name="poeyes_alt"     x="1124" y="572"       sprite="eyesALT"      scale="1" scrollx="0.99" />
+    <sprite name="custard"       x="1280" y="670"    sprite="custard"   scale="1"  />
+
+    <boyfriend x="1100" scroll="1"/>
+    <girlfriend scroll="1" x="1370" y="300"/>
+    <dad scroll="1"/>
+    <combo x="1550" y="200"/>
+
+    <high-memory>
+        <sprite name="bg_fog"       x="-1600" y="200"    sprite="overlay-front" scale="1" scroll="1" >
+            <property name="blend" type="int" value="14" />    
+        </sprite>
+
+        <sprite name="fog_above"       x="-1700" y="-1500"    sprite="fog-above-overlay" scale="1" scroll="0" alpha ="1.5">
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+
+        <sprite name="custardGlow"       x="1190" y="640"    sprite="custard-glow" scale="1" scroll="1" >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+    </high-memory>
+
+    <sprite name="tinkyFB"       x="-600" y="-100"    sprite="flashbacks/tinky"   scale="1"  scroll="0" alpha="0"/>
+    <sprite name="laalaaFB"       x="600" y="0"    sprite="flashbacks/laalaa"   scale="1"  scroll="0" alpha="0"/>
+    <sprite name="dipsyFB"       x="-600" y="0"    sprite="flashbacks/dipsy"   scale="1"  scroll="0" alpha="0"/>
+    <sprite name="poFB"       x="600" y="100"    sprite="flashbacks/po"   scale="1"  scroll="0" alpha="0"/>
+
+</stage>

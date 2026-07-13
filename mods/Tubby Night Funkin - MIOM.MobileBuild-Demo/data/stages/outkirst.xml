@@ -1,0 +1,32 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="stage" folder="stages/outkirts/" startCamPosY="1100" startCamPosX="2400">
+    <sprite name="skyrun"       x="-1200" y="-600"    sprite="run/sky"      scroll="0" zoomfactor='0' scale="0.7" alpha="0"/>
+    <sprite name="bg"       x="00" y="00"    sprite="bg"      scroll="1" zoomfactor='0' />
+    <sprite name="wbbg"       x="900" y="700"    sprite="wall-bbg"      scroll="0.6"   zoomfactor='0.6' />
+    <sprite name="wbg"       x="100" y="700"    sprite="wall-bg"      scroll="0.8"   zoomfactor='0.8' />
+    <sprite name="ground"       x="600" y="1200"    sprite="ground"      scroll="0.9    " zoomfactor='0.9' />
+
+    <sprite name="outlinestage"       x="1000" y="550"    sprite="outline-stage"      scroll="1" zoomfactor='1' scale="0.8" alpha="0"/>
+
+    <dad x="1000" flipX="true" scroll="0.95"/>
+    <sprite name="wallfg"       x="2000" y="700"    sprite="wall-fg"      scroll="1" scale="1.4" zoomfactor='0.9' />
+
+    <boyfriend scroll="1.1" x="1000"/>
+
+    <high-memory>
+        <sprite name="overlay"       x="-1600" y="-100"    sprite="overlay" scale="1.2" scroll="0" zoomfactor='0' >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+
+
+        <sprite name="fogbbg"       x="-1600" y="-100"    sprite="fog" scale="1.2" scroll="0" zoomfactor='0' >
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+
+        <sprite name="overlayrun"       x="-2000" y="-600"    sprite="run/overlay" scale="1.2" scroll="0" alpha="0" >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+    </high-memory>
+
+    <combo x="2042.5" y="899"/>
+</stage>

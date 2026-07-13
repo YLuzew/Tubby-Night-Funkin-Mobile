@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character y="-10" sprite="Girlfriend/gf-gift" camx="-300" camy="-100" isPlayer="true" icon="gf">
+	<anim name="danceLeft" anim="GF Dancing Beat" indices="30,0..14"/>
+	<anim name="danceRight" anim="GF Dancing Beat" indices="15..29"/>
+	<anim name="singLEFT" anim="gf-right" x="70" y="-15"/>
+	<anim name="singRIGHT" anim="gf-left" x="-30" y="8"/>
+	<anim name="singUP" anim="gf-up" x="-16" y="41"/>
+	<anim name="singDOWN" anim="gf-down" x="-10" y="-30"/>
+	<anim name="singDOWNmiss" anim="miss-down0" x="35" y="5"/>
+	<anim name="singRIGHTmiss" anim="miss-left0" x="35" y="25"/>
+	<anim name="singLEFTmiss" anim="miss-right0" x="-27" y="36"/>
+	<anim name="singUPmiss" anim="miss-up0" x="-35" y="62"/>
+</character>

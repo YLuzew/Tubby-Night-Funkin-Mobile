@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Girlfriend/gf-final-phase" flipX="true" isPlayer="true" icon="gf" color="#B56530" x="-300" y="-200">
+	<anim name="idle" anim="gf-demon-idle"/>
+	<anim name="singDOWN" anim="gf-demon-down" y="-55"/>
+	<anim name="singRIGHT" anim="gf-demon-right" x="-20" y="-10"/>
+	<anim name="singLEFT" anim="gf-demon-left" x="50"/>
+	<anim name="singUP" anim="gf-demon-up" x="-20" y="35"/>
+</character>

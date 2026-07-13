@@ -1,0 +1,43 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="stage" folder="stages/zalgo/" startCamPosY="0" startCamPosX="885">
+    <use-extension script="dropshadow-effect" />
+    <sprite name="blackfog"       x="-1300" y="-300"    sprite="black-fog"  scale="1" scroll="0" zoomfactor="0"   />
+    <sprite name="treesFar"       x="-300" y="-360"    sprite="trees-far-background"  scale="1" scroll="0.5" zoomfactor="1"   />
+    <sprite name="treesBackground"       x="-900" y="-500"    sprite="trees-background"  scale="1" scroll="0.6" zoomfactor="1"   />
+    
+    <sprite name="treesFront"       x="-600" y="-1050"    sprite="trees-front"  scale="1" scroll="1" zoomfactor="1"  />
+    <sprite name="blackfog2"       x="-1300" y="-300"    sprite="black-fog"  scale="1" scroll="0" zoomfactor="0"   />
+    <sprite name="ground"       x="-900" y="-700"    sprite="ground"  scale="1"  />
+
+    <sprite name="sky2"       x="-1400" y="-400"    sprite="2/sky"  scale="0.8" alpha="0" scroll="0" zoomfactor="0"/>
+    <sprite name="moon2"       x="400" y="-50"    sprite="2/blood-moon"  scale="1.2" alpha="0" scroll="0.2" zoomfactor="0.2"/>
+
+    <sprite name="ground2"       x="-1400" y="200"    sprite="2/stage-ground"  scale="1" alpha="0" scroll="0.8" />
+    <sprite name="treesfront2"       x="-1800" y="-750"    sprite="2/trees-front"  scale="1" alpha="0" scroll="1" />
+
+    <dad scroll="1"
+    ds_applyShader="true" ds_brightness="0" ds_hue="0" ds_contrast="0" ds_saturation="-60" ds_color="#ffffff" ds_angle="180" ds_distance="0"/>
+
+    <boyfriend scroll="1" x="1200" y="300"
+    ds_applyShader="true" ds_brightness="0" ds_hue="0" ds_contrast="0" ds_saturation="-60" ds_color="#ffffff" ds_angle="180" ds_distance="0"/>
+    <combo x="1450" y="200"/>
+
+    <high-memory>
+        <sprite name="redfog"       x="-900" y="-800"    sprite="red-fog" scale="1" scroll="0.9" >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+
+        <sprite name="fog"       x="-1400" y="50"    sprite="fog" scale="1" scroll="0.63"  >
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+        
+        <sprite name="light2"       x="-1000" y="-800"    sprite="2/moon-light" scale="1" scroll="0.9" alpha="0" >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+
+        <sprite name="fogfront2"       x="-1000" y="-200"    sprite="2/fog-front" scale="1.2" scroll="0.9" alpha="0" >
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+    </high-memory>
+
+</stage>

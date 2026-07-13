@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#961818",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "zalgo",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "5Kat",
+	"displayName": "Rabbits Blood",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 170
+}

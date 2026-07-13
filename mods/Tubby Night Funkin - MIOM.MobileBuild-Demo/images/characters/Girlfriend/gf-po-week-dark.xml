@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-po-week-dark.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf-sit0000" x="1" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0001" x="1" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0002" x="1" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0003" x="392" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0004" x="783" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0005" x="783" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0006" x="1174" y="1" width="390" height="439"/>
+	<SubTexture name="gf-sit0007" x="1" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0008" x="1" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0009" x="1" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0010" x="392" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0011" x="392" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0012" x="392" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0013" x="783" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0014" x="783" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0015" x="1174" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0016" x="1174" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0017" x="1" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0018" x="1" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0019" x="392" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0020" x="392" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0021" x="783" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0022" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0023" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0024" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0025" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0026" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0027" x="1174" y="881" width="390" height="439"/>
+	<SubTexture name="gf-sit0028" x="392" y="441" width="390" height="439"/>
+	<SubTexture name="gf-sit0029" x="392" y="441" width="390" height="439"/>
+</TextureAtlas>

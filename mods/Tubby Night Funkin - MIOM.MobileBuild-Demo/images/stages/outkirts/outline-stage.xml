@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="outline-stage.png" width="3168" height="1019">
+	<SubTexture name="outline-stage-loop0000" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0001" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0002" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0003" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0004" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0005" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0006" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0007" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0008" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0009" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0010" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0011" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0012" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0013" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0014" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0015" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0016" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0017" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0018" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0019" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0020" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0021" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0022" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0023" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0024" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0025" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0026" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0027" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0028" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0029" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0030" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0031" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0032" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0033" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0034" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0035" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0036" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0037" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0038" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0039" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0040" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0041" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0042" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0043" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0044" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0045" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0046" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0047" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0048" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0049" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0050" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0051" x="1586" y="1" width="1581" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0052" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0053" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0054" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+	<SubTexture name="outline-stage-loop0055" x="1" y="1" width="1582" height="1017" frameX="-102" frameY="-12" frameWidth="1834" frameHeight="1061"/>
+</TextureAtlas>

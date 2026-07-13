@@ -1,0 +1,27 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="stage" folder="stages/carnage/" startCamPosY="300" startCamPosX="750">
+    <sprite name="background"       x="-700" y="-500"    sprite="background"   scale="0.8"   scroll="0.9" zoomfactor='0.8' />
+
+    <dad scroll="0.95" zoomfactor="0.95"/>
+
+    <boyfriend scroll="1"/>
+
+    <high-memory>
+        <sprite name="light"       x="-500" y="-250"    sprite="light" scale="1" scroll="1" zoomfactor='1' >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+        
+        <sprite name="topgradient"       x="400" y="-50"    sprite="top_gradient" scale="4" scroll="1" zoomfactor='1' >
+            <property name="blend" type="int" value="0" />    
+        </sprite>
+        
+        <sprite name="overlay"       x="-100" y="-250"    sprite="overlay" scale="1" alpha="1" scroll="0" zoomfactor='0' >
+            <property name="blend" type="int" value="14" />    
+        </sprite>
+
+        <sprite name="overlayblack"       x="-100" y="0"    sprite="overlayblack" scale="1" alpha="0" scroll="0" zoomfactor='0' >
+            <property name="blend" type="int" value="1" />    
+        </sprite>
+    </high-memory>
+
+</stage>

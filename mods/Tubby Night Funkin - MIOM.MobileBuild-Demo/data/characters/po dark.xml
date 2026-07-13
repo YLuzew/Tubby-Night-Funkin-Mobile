@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="425" y="325" sprite="Po/po-dark" camx="100" camy="-20" icon="po" color="#C43636">
+	<anim name="idle" anim="PO-EXPORT/po-idle-main"/>
+	<anim name="singRIGHT" anim="PO-EXPORT/po-right-main"/>
+	<anim name="singLEFT" anim="PO-EXPORT/po-left-main"/>
+	<anim name="singUP" anim="PO-EXPORT/po-up-main"/>
+	<anim name="singDOWN" anim="PO-EXPORT/po-down-main"/>
+	<anim name="idle-alt" anim="PO-EXPORT/po-idle-fuss"/>
+	<anim name="singRIGHT-alt" anim="PO-EXPORT/po-right-fuss"/>
+	<anim name="singLEFT-alt" anim="PO-EXPORT/po-left-fuss"/>
+	<anim name="singUP-alt" anim="PO-EXPORT/po-up-fuss"/>
+	<anim name="singDOWN-alt" anim="PO-EXPORT/po-down-fuss"/>
+</character>

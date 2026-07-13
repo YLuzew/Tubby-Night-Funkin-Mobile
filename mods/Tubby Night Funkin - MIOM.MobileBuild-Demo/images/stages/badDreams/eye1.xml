@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="eye-one.png" width="691" height="757">
+	<SubTexture name="opening0000" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0001" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0002" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0003" x="314" y="413" width="119" height="8" frameX="-194" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0004" x="314" y="413" width="119" height="8" frameX="-194" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0005" x="314" y="413" width="119" height="8" frameX="-194" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0006" x="314" y="373" width="303" height="37" frameX="-110" frameY="-213" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0007" x="314" y="373" width="303" height="37" frameX="-110" frameY="-213" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0008" x="314" y="373" width="303" height="37" frameX="-110" frameY="-213" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0009" x="1" y="1" width="376" height="44" frameX="-68" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0010" x="1" y="1" width="376" height="44" frameX="-68" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0011" x="1" y="1" width="376" height="44" frameX="-68" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0012" x="314" y="201" width="306" height="83" frameX="-103" frameY="-185" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0013" x="314" y="201" width="306" height="83" frameX="-103" frameY="-185" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0014" x="314" y="201" width="306" height="83" frameX="-103" frameY="-185" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0015" x="1" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0016" x="1" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0017" x="1" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0018" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0019" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0020" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0021" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0022" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0023" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0024" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0025" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0026" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0027" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0028" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0029" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0030" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0031" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0032" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0033" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0034" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0035" x="380" y="1" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0036" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0037" x="1" y="95" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0038" x="1" y="295" width="310" height="197" frameX="-107" frameY="-114" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0039" x="308" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0040" x="308" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0041" x="308" y="495" width="304" height="261" frameX="-110" frameY="-92" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0042" x="314" y="287" width="306" height="83" frameX="-103" frameY="-183" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0043" x="314" y="287" width="306" height="83" frameX="-103" frameY="-183" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0044" x="314" y="287" width="306" height="83" frameX="-103" frameY="-183" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0045" x="1" y="48" width="376" height="44" frameX="-70" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0046" x="1" y="48" width="376" height="44" frameX="-70" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0047" x="1" y="48" width="376" height="44" frameX="-70" frameY="-209" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0048" x="314" y="424" width="119" height="8" frameX="-185" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0049" x="314" y="424" width="119" height="8" frameX="-185" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0050" x="314" y="424" width="119" height="8" frameX="-185" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0051" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0052" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0053" x="314" y="95" width="16" height="5" frameX="-242" frameY="-214" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0054" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0055" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0056" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0057" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0058" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0059" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0060" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0061" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0062" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0063" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0064" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+	<SubTexture name="opening0065" x="333" y="95" width="1" height="1" frameX="-0" frameY="-0" frameWidth="550" frameHeight="400"/>
+</TextureAtlas>

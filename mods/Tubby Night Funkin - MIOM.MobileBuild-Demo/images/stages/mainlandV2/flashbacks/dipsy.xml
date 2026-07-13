@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dipsy.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flash-back30000" x="0" y="0" width="847" height="946"/>
+	<SubTexture name="flash-back30001" x="0" y="0" width="847" height="946"/>
+	<SubTexture name="flash-back30002" x="0" y="0" width="847" height="946"/>
+	<SubTexture name="flash-back30003" x="0" y="0" width="847" height="946"/>
+	<SubTexture name="flash-back30004" x="0" y="946" width="847" height="946"/>
+	<SubTexture name="flash-back30005" x="0" y="946" width="847" height="946"/>
+	<SubTexture name="flash-back30006" x="0" y="946" width="847" height="946"/>
+	<SubTexture name="flash-back30007" x="0" y="946" width="847" height="946"/>
+</TextureAtlas>

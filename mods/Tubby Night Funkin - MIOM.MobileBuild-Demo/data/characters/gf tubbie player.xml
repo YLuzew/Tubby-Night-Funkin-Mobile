@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="-100" sprite="Girlfriend/gf-tubbie-player" flipX="true" camx="-60" camy="-50" isPlayer="true" icon="gf" color="#B56530">
+	<anim name="danceLeft" anim="gf-idle" indices="0..13"/>
+	<anim name="danceRight" anim="gf-idle" indices="14..27"/>
+	<anim name="singRIGHT" anim="gf-right" x="-83" y="2"/>
+	<anim name="singLEFT" anim="gf-left" x="72" y="-7"/>
+	<anim name="singUP" anim="gf-up" x="-5" y="40"/>
+	<anim name="singDOWN" anim="gf-down" x="45" y="-90"/>
+	<anim name="singRIGHTmiss" anim="gf-miss-right" x="-87" y="8"/>
+	<anim name="singLEFTmiss" anim="gf-miss-left" x="80" y="-1"/>
+	<anim name="singUPmiss" anim="gf-miss-up" x="-22" y="16"/>
+</character>

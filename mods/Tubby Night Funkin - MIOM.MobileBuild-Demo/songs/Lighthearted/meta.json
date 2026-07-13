@@ -1,0 +1,18 @@
+{
+	"color": "#FF003D",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"hard",
+		"normal",
+		"easy"
+	],
+	"icon": "Po",
+	"coopAllowed": false,
+	"artists": "5Kat",
+	"stepsPerBeat": 4,
+	"displayName": "Lighthearted",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"playCutscene": true,
+	"bpm": 115
+}

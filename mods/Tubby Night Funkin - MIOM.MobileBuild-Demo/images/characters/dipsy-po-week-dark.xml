@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dispy-po-week-dark.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dipsy-chill0000" x="1" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0001" x="1" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0002" x="1" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0003" x="365" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0004" x="729" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0005" x="1093" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0006" x="1457" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0007" x="1821" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0008" x="1821" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0009" x="2185" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0010" x="2185" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0011" x="2185" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0012" x="2185" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0013" x="2549" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0014" x="2549" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0015" x="2913" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0016" x="2913" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0017" x="2913" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0018" x="3277" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0019" x="3277" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0020" x="3641" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0021" x="3641" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0022" x="1" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0023" x="1" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0024" x="1" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0025" x="2549" y="1" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0026" x="1" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0027" x="1" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0028" x="365" y="483" width="363" height="481"/>
+	<SubTexture name="dipsy-chill0029" x="365" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0000" x="729" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0001" x="729" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0002" x="729" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0003" x="1093" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0004" x="1457" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0005" x="1821" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0006" x="2185" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0007" x="2549" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0008" x="2549" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0009" x="2913" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0010" x="2913" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0011" x="2913" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0012" x="2913" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0013" x="3277" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0014" x="3277" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0015" x="3641" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0016" x="3641" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0017" x="3641" y="483" width="363" height="481"/>
+	<SubTexture name="dip-heh0018" x="1" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0019" x="1" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0020" x="365" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0021" x="365" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0022" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0023" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0024" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0025" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0026" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0027" x="729" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0028" x="1093" y="965" width="363" height="481"/>
+	<SubTexture name="dip-heh0029" x="1093" y="965" width="363" height="481"/>
+</TextureAtlas>

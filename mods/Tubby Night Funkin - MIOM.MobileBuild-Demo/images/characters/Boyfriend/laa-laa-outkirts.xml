@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laa-laa-outkirts.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laa-laa-down0000" x="25" y="25" width="1591" height="1108"/>
+	<SubTexture name="laa-laa-down0001" x="25" y="25" width="1591" height="1108"/>
+	<SubTexture name="laa-laa-down0002" x="3195" y="25" width="1557" height="1103" frameX="-24" frameY="-5" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0003" x="3195" y="25" width="1557" height="1103" frameX="-24" frameY="-5" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0004" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0005" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0006" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0007" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0008" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-down0009" x="1626" y="25" width="1559" height="1105" frameX="-22" frameY="-3" frameWidth="1591" frameHeight="1108"/>
+	<SubTexture name="laa-laa-idle0000" x="4422" y="2385" width="1370" height="1135" frameX="0" frameY="-27" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0001" x="4422" y="2385" width="1370" height="1135" frameX="0" frameY="-27" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0002" x="25" y="2325" width="1380" height="1134" frameX="0" frameY="-28" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0003" x="25" y="2325" width="1380" height="1134" frameX="0" frameY="-28" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0004" x="25" y="3469" width="1346" height="1139" frameX="-15" frameY="-23" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0005" x="25" y="3469" width="1346" height="1139" frameX="-15" frameY="-23" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0006" x="6051" y="2322" width="1362" height="1156" frameX="-24" frameY="-6" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0007" x="6051" y="2322" width="1362" height="1156" frameX="-24" frameY="-6" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0008" x="3041" y="2283" width="1371" height="1159" frameX="-19" frameY="-3" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0009" x="3041" y="2283" width="1371" height="1159" frameX="-19" frameY="-3" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0010" x="1437" y="2322" width="1363" height="1161" frameX="-23" frameY="-1" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0011" x="1437" y="2322" width="1363" height="1161" frameX="-23" frameY="-1" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0012" x="4673" y="1213" width="1368" height="1162" frameX="-32" frameY="0" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-idle0013" x="4673" y="1213" width="1368" height="1162" frameX="-32" frameY="0" frameWidth="1400" frameHeight="1162"/>
+	<SubTexture name="laa-laa-left0000" x="6202" y="1172" width="1440" height="1140" frameX="0" frameY="0" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0001" x="6202" y="1172" width="1440" height="1140" frameX="0" frameY="0" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0002" x="6202" y="25" width="1471" height="1137" frameX="-7" frameY="-3" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0003" x="6202" y="25" width="1471" height="1137" frameX="-7" frameY="-3" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0004" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0005" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0006" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0007" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0008" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-left0009" x="3195" y="1138" width="1468" height="1135" frameX="-10" frameY="-5" frameWidth="1478" frameHeight="1140"/>
+	<SubTexture name="laa-laa-right0000" x="4762" y="25" width="1430" height="1178" frameX="0" frameY="0" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0001" x="4762" y="25" width="1430" height="1178" frameX="0" frameY="0" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0002" x="1626" y="1140" width="1405" height="1172" frameX="-39" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0003" x="1626" y="1140" width="1405" height="1172" frameX="-39" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0004" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0005" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0006" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0007" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0008" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-right0009" x="25" y="1143" width="1402" height="1172" frameX="-40" frameY="-6" frameWidth="1444" frameHeight="1178"/>
+	<SubTexture name="laa-laa-up0000" x="2810" y="3452" width="1283" height="1206" frameX="0" frameY="0" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0001" x="2810" y="3452" width="1283" height="1206" frameX="0" frameY="0" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0002" x="1381" y="3493" width="1280" height="1187" frameX="-16" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0003" x="1381" y="3493" width="1280" height="1187" frameX="-16" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0004" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0005" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0006" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0007" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0008" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+	<SubTexture name="laa-laa-up0009" x="5802" y="3488" width="1281" height="1187" frameX="-14" frameY="-19" frameWidth="1296" frameHeight="1206"/>
+</TextureAtlas>

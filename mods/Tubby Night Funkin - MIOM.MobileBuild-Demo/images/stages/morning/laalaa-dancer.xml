@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laa-laa-dancer.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dance0000" x="1" y="1" width="207" height="494" frameX="-7" frameY="-14" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0001" x="1" y="1" width="207" height="494" frameX="-7" frameY="-14" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0002" x="209" y="1" width="212" height="492" frameX="0" frameY="-16" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0003" x="209" y="1" width="212" height="492" frameX="0" frameY="-16" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0004" x="422" y="1" width="203" height="504" frameX="-8" frameY="-4" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0005" x="422" y="1" width="203" height="504" frameX="-8" frameY="-4" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0006" x="626" y="1" width="201" height="507" frameX="-10" frameY="-1" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0007" x="626" y="1" width="201" height="507" frameX="-10" frameY="-1" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0008" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0009" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0010" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0011" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0012" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="dance0013" x="828" y="1" width="200" height="508" frameX="-11" frameY="0" frameWidth="214" frameHeight="508"/>
+	<SubTexture name="laa-laa-emote0000" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0001" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0002" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0003" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0004" x="308" y="510" width="305" height="509" frameX="-1" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0005" x="308" y="510" width="305" height="509" frameX="-1" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0006" x="614" y="510" width="307" height="509" frameX="0" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0007" x="614" y="510" width="307" height="509" frameX="0" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0008" x="922" y="510" width="305" height="507" frameX="0" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0009" x="922" y="510" width="305" height="507" frameX="0" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0010" x="1" y="1020" width="299" height="458" frameX="-24" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0011" x="1" y="1020" width="299" height="458" frameX="-24" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0012" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0013" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0014" x="608" y="1020" width="311" height="509" frameX="-16" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0015" x="608" y="1020" width="311" height="509" frameX="-16" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0016" x="608" y="1020" width="311" height="509" frameX="-16" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0017" x="920" y="1020" width="311" height="507" frameX="-15" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0018" x="920" y="1020" width="311" height="507" frameX="-15" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0019" x="1" y="1530" width="308" height="507" frameX="-16" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0020" x="1" y="1530" width="308" height="507" frameX="-16" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0021" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0022" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0023" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0024" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0025" x="310" y="1530" width="304" height="509" frameX="-2" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0026" x="310" y="1530" width="304" height="509" frameX="-2" frameY="0" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0027" x="615" y="1530" width="305" height="507" frameX="0" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0028" x="615" y="1530" width="305" height="507" frameX="0" frameY="-2" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0029" x="1" y="1020" width="299" height="458" frameX="-24" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0030" x="1" y="1020" width="299" height="458" frameX="-24" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0031" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0032" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0033" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0034" x="301" y="1020" width="306" height="457" frameX="-18" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0035" x="921" y="1530" width="304" height="461" frameX="-18" frameY="-52" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0036" x="921" y="1530" width="304" height="461" frameX="-18" frameY="-52" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0037" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0038" x="1029" y="1" width="298" height="458" frameX="-6" frameY="-55" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0039" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+	<SubTexture name="laa-laa-emote0040" x="1" y="510" width="306" height="457" frameX="-4" frameY="-56" frameWidth="327" frameHeight="513"/>
+</TextureAtlas>

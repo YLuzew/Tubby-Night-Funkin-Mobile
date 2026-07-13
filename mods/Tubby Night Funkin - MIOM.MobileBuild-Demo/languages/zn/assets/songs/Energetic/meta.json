@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#FF003D",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"HARD",
+		"EASY"
+	],
+	"icon": "po",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "ewo (合作. 5Kat & Csauce)",
+	"displayName": "跃然",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 135
+}

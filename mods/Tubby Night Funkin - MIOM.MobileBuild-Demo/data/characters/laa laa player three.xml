@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="175" y="-115" sprite="LaaLaa/laalaaPhaseThree" scale="1.5" flipX="true" camy="-50" isPlayer="true" icon="laalaa-baddreams" color="#B56530">
+	<anim name="idle" anim="alt-idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="alt-right" x="2" y="-8" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="alt-left" x="36" y="-1" fps="24" loop="false"/>
+	<anim name="singUP" anim="alt-up" x="-20" y="41" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="alt-down" x="35" y="-38" fps="24" loop="false"/>
+	<anim name="character-swap" anim="laa-laa-turn" x="102" y="-16" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="laa-laa-behind-gf" x="150" y="-100" fps="24" loop="false"/>
+</character>

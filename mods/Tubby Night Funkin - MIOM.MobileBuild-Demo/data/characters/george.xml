@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="george-tubbie" camx="-50" camy="-30" x="150" y="100" icon="george" color="#689DC4">
+	<anim name="idle" anim="idle0" x="-20" y="5" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="54" y="-53" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="34" y="32" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-62" y="-10" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="25" y="61" fps="24" loop="false"/>
+</character>

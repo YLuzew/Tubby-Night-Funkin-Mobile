@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="divider.png" width="615" height="2748">
+	<SubTexture name="line-divider0000" x="1" y="1" width="613" height="940" frameX="-4" frameY="-0" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0001" x="1" y="1" width="613" height="940" frameX="-4" frameY="-0" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0002" x="1" y="1" width="613" height="940" frameX="-4" frameY="-0" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0003" x="1" y="1859" width="591" height="888" frameX="-0" frameY="-52" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0004" x="1" y="1859" width="591" height="888" frameX="-0" frameY="-52" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0005" x="1" y="1859" width="591" height="888" frameX="-0" frameY="-52" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0006" x="1" y="944" width="598" height="912" frameX="-1" frameY="-25" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0007" x="1" y="944" width="598" height="912" frameX="-1" frameY="-25" frameWidth="617" frameHeight="941"/>
+	<SubTexture name="line-divider0008" x="1" y="944" width="598" height="912" frameX="-1" frameY="-25" frameWidth="617" frameHeight="941"/>
+</TextureAtlas>

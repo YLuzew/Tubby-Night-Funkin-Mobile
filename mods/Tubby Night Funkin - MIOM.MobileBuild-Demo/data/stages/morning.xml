@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.55" name="stage" folder="stages/morning/" startCamPosY="100" startCamPosX="385">
+    <sprite name="bg" x="-550" y="-600" sprite="bg" scale="1" scroll="0" zoomfactor="1" />
+    <sprite name="hills" x="1740" y="-20" sprite="hills" scale="1" scroll="0.9" zoomfactor="1" />
+    <sprite name="home" x="-1000" y="-600" sprite="home" scale="1" scroll="1" zoomfactor="1" />
+
+    <sprite name="lala" x="-200" y="-50" sprite="laalaa-dancer" updateHitbox="true">
+        <anim name="dancelala" anim="laa-laa-emote0" fps="24" loop="true" />
+        <anim name="idle" anim="dance00" fps="24" loop="true" />
+    </sprite>
+
+    <sprite name="dipsy" x="-300" y="-10" sprite="dipsy-dancer" scale="0.9" scroll="1" zoomfactor="1" />
+
+    <gf scroll="1" x="600" y="-300" />
+
+    <dad scroll="1" x="-50" y="40" />
+
+    <boyfriend scroll="1" x="920" y="140" camx="1000" camy="100" />
+    <combo x="600" y="200" />
+    <sprite name="flowers" x="-500" y="530" sprite="flowers" scale="1.1" zoomfactor="1" />
+
+    <sprite name="bush" x="-1000" y="400" sprite="bush" scale="1.1" scroll="1.4" zoomfactor="1" />
+
+    <high-memory>
+        <sprite name="light" x="-1100" y="-1300" sprite="light" scale="1.2" scroll="0.9">
+            <property name="blend" type="int" value="0" />
+        </sprite>
+    </high-memory>
+</stage>

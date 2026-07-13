@@ -1,0 +1,47 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="stage" folder="stages/tubbie-house/" startCamPosY="200" startCamPosX="150">
+    <sprite name="far-back" x="-1170" y="-444" sprite="far-back" scale="1" scroll="0.95" zoomfactor="1"/>
+    <sprite name="foreground" x="-1543" y="109" sprite="foreground" scale="1" scroll="1" zoomfactor="1"/>
+    
+    <high-memory>
+        <sprite name="lights-back" x="-940" y="-309" sprite="lights-back" scale="1" scroll="0.95" zoomfactor="1">
+            <property name="blend" type="int" value="0"/>
+        </sprite>
+    </high-memory>
+    
+    <sprite name="core" x="-400" y="-450" sprite="core" scale="1" scroll="1" zoomfactor="1"/>
+    
+    <high-memory>
+        <sprite name="core-lights" x="41" y="-355" sprite="core-lights" scale="1" scroll="1" zoomfactor="1">
+            <property name="blend" type="int" value="0"/>
+        </sprite>
+    </high-memory>
+    
+    <sprite name="tinky winky bopper" x="-670" y="60" sprite="tinky winky bopper" scale="1" scroll="1" zoomfactor="1" type="onbeat" beatInterval="1"/>
+
+    <sprite name="laa laa bopper" x="-900" y="100" sprite="laa laa bopper" scale="1" scroll="1" zoomfactor="1" type="onbeat" beatInterval="1">
+        <anim name="danceLeft" anim="bop" indices="14,15,16,17,18,19,20,21,22,23,24,25,26,27"/>
+        <anim name="danceRight" anim="bop" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13"/>
+    </sprite>
+
+    <sprite name="noo-noo-bopper" x="890" y="250" sprite="noo-noo-bopper" scale="1" scroll="1" zoomfactor="1" type="onbeat" beatInterval="1"/>
+    
+    <gf x="0" y="0" scroll="1"/>
+    <dad x="-670" y="100" scroll="1"/>
+    <boyfriend x="460" y="240" scroll="1"/>
+    
+    <sprite name="tub-boppers" x="-1250" y="150" sprite="tub-boppers" scale="1" scroll="1.2" zoomfactor="1" type="onbeat" beatInterval="1"/>
+    <sprite name="pillers" x="-1053" y="-475" sprite="pillers" scale="1" scroll="1" zoomfactor="1"/>
+    
+    <high-memory>
+        <sprite name="overlay" x="-1127" y="-453" sprite="overlay" scale="1" scroll="1" zoomfactor="1">
+            <property name="blend" type="int" value="14"/>
+        </sprite>
+        
+        <sprite name="mainLight" x="-700" y="-600" sprite="main-light" scale="1.1" scroll="1.1" zoomfactor="1">
+            <property name="blend" type="int" value="0"/>
+        </sprite>
+    </high-memory>
+    
+    <combo x="150" y="200"/>
+</stage>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-1100" y="-400" sprite="LaaLaa/laa-laa-prefinal" flipX="true" camx="90" camy="-50" isPlayer="true" icon="laalaa-baddreams" color="#B56530">
+	<anim name="idle" anim="laa-laa-solo idle0"/>
+	<anim name="singUP" anim="laa-laa-solo up0"/>
+	<anim name="singRIGHT" anim="laa-laa-solo right0"/>
+	<anim name="singDOWN" anim="laa-laa-solo down0"/>
+	<anim name="singLEFT" anim="laa-laa-solo left0"/>
+	<anim name="yeet" anim="laa-laa-solo laa-laa-bye"/>
+</character>

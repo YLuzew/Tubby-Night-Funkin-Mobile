@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TNF-main-menu-FINAL.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence clouds 10000" x="0" y="0" width="562" height="146"/>
+	<SubTexture name="Occurrence clouds 10001" x="0" y="0" width="562" height="146"/>
+	<SubTexture name="Occurrence clouds 10002" x="0" y="0" width="562" height="146"/>
+</TextureAtlas>

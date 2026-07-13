@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laa laa bopper dark.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bop0000" x="1" y="1" width="325" height="531"/>
+	<SubTexture name="bop0001" x="1" y="1" width="325" height="531"/>
+	<SubTexture name="bop0002" x="1" y="533" width="325" height="531"/>
+	<SubTexture name="bop0003" x="1" y="533" width="325" height="531"/>
+	<SubTexture name="bop0004" x="327" y="1" width="325" height="531"/>
+	<SubTexture name="bop0005" x="327" y="1" width="325" height="531"/>
+	<SubTexture name="bop0006" x="327" y="533" width="325" height="531"/>
+	<SubTexture name="bop0007" x="653" y="1" width="325" height="531"/>
+	<SubTexture name="bop0008" x="653" y="1" width="325" height="531"/>
+	<SubTexture name="bop0009" x="653" y="1" width="325" height="531"/>
+	<SubTexture name="bop0010" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0011" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0012" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0013" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0014" x="979" y="1" width="325" height="531"/>
+	<SubTexture name="bop0015" x="979" y="1" width="325" height="531"/>
+	<SubTexture name="bop0016" x="979" y="533" width="325" height="531"/>
+	<SubTexture name="bop0017" x="979" y="533" width="325" height="531"/>
+	<SubTexture name="bop0018" x="1305" y="1" width="325" height="531"/>
+	<SubTexture name="bop0019" x="1305" y="1" width="325" height="531"/>
+	<SubTexture name="bop0020" x="1305" y="533" width="325" height="531"/>
+	<SubTexture name="bop0021" x="1631" y="1" width="325" height="531"/>
+	<SubTexture name="bop0022" x="1631" y="533" width="325" height="531"/>
+	<SubTexture name="bop0023" x="1631" y="533" width="325" height="531"/>
+	<SubTexture name="bop0024" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0025" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0026" x="653" y="533" width="325" height="531"/>
+	<SubTexture name="bop0027" x="653" y="533" width="325" height="531"/>
+</TextureAtlas>

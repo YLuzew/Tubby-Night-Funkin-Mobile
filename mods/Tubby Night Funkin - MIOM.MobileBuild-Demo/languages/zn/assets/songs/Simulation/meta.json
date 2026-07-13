@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"HARD",
+		"EASY"
+	],
+	"icon": "Tinky winky",
+	"color": "#8F71FD",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "拟梦",
+	"artists": "akinmontsho",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 112.5
+}

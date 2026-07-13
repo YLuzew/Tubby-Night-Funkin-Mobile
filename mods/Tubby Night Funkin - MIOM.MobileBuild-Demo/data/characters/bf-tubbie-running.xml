@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="587" y="880" sprite="Boyfriend/bf-tubbie-running" flipX="true" camx="25" camy="-50" isPlayer="true" icon="bf" color="#31B3D1">
+	<anim name="idle" anim="idle-body0" x="2" loop="true"/>
+	<anim name="singLEFT" anim="left-body0" x="19" y="2"/>
+	<anim name="singRIGHT" anim="right-body0" x="40"/>
+	<anim name="singUP" anim="up-body0" x="-15" y="20"/>
+	<anim name="singDOWN" anim="down-body0" x="5" y="-15"/>
+</character>

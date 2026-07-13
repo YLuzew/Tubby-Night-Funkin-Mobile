@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="tubbies.png" width="9961" height="9444">
+	<SubTexture name="laalaa-no-eyes-comfirm0000" x="3541" y="1" width="1187" height="1432" frameX="-161" frameY="-37" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0001" x="3541" y="1" width="1187" height="1432" frameX="-161" frameY="-37" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0002" x="1472" y="1472" width="1460" height="1330" rotated="true" frameX="-24" frameY="-9" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0003" x="1472" y="1472" width="1460" height="1330" rotated="true" frameX="-24" frameY="-9" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0004" x="981" y="1" width="1285" height="1468" frameX="-40" frameY="-3" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0005" x="981" y="1" width="1285" height="1468" frameX="-40" frameY="-3" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0006" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0007" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0008" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0009" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0010" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0011" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0012" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0013" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0014" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0015" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0016" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0017" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0018" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0019" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0020" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0021" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0022" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0023" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0024" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0025" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0026" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0027" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0028" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0029" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0030" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0031" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0032" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0033" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0034" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0035" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0036" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0037" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0038" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0039" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0040" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0041" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0042" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0043" x="1" y="1546" width="1468" height="1274" rotated="true" frameX="-44" frameY="-5" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0044" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-comfirm0045" x="2269" y="1" width="1269" height="1463" frameX="-52" frameY="-6" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0000" x="1446" y="2823" width="1440" height="1178" rotated="true" frameX="-193" frameY="-25" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0001" x="1446" y="2823" width="1440" height="1178" rotated="true" frameX="-193" frameY="-25" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0002" x="1" y="4005" width="1423" height="1173" rotated="true" frameX="-204" frameY="-42" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0003" x="1" y="4005" width="1423" height="1173" rotated="true" frameX="-204" frameY="-42" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0004" x="1" y="2823" width="1442" height="1179" rotated="true" frameX="-195" frameY="-22" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0005" x="1" y="2823" width="1442" height="1179" rotated="true" frameX="-195" frameY="-22" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0006" x="3541" y="1436" width="1172" height="1426" frameX="-205" frameY="-39" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="laalaa-no-eyes-loop0007" x="3541" y="1436" width="1172" height="1426" frameX="-205" frameY="-39" frameWidth="1410" frameHeight="1487"/>
+	<SubTexture name="Custard-loop0010" x="4716" y="1436" width="1030" height="1378" frameX="-0" frameY="-8" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0011" x="4716" y="1436" width="1030" height="1378" frameX="-0" frameY="-8" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0012" x="1" y="5181" width="1338" height="1041" rotated="true" frameX="-2" frameY="-45" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0013" x="1" y="5181" width="1338" height="1041" rotated="true" frameX="-2" frameY="-45" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0014" x="1" y="5181" width="1338" height="1041" rotated="true" frameX="-2" frameY="-45" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0015" x="4263" y="3923" width="1347" height="1034" rotated="true" frameX="-11" frameY="-35" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0016" x="4263" y="3923" width="1347" height="1034" rotated="true" frameX="-11" frameY="-35" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Custard-loop0017" x="4263" y="3923" width="1347" height="1034" rotated="true" frameX="-11" frameY="-35" frameWidth="1045" frameHeight="1386"/>
+	<SubTexture name="Zalgo-comfirm0000" x="6556" y="1" width="685" height="1296" frameX="-224" frameY="-171" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0001" x="6556" y="1" width="685" height="1296" frameX="-224" frameY="-171" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0002" x="7159" y="2597" width="825" height="1273" frameX="-200" frameY="-197" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0003" x="7159" y="2597" width="825" height="1273" frameX="-200" frameY="-197" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0004" x="1" y="7906" width="1273" height="917" rotated="true" frameX="-190" frameY="-184" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0005" x="1" y="7906" width="1273" height="917" rotated="true" frameX="-190" frameY="-184" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0006" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0007" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0008" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0009" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0010" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0011" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0012" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0013" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0014" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0015" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0016" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0017" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0018" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0019" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0020" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0021" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0022" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0023" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0024" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0025" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0026" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0027" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0028" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0029" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0030" x="7987" y="2569" width="880" height="1262" frameX="-209" frameY="-195" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0031" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0032" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0033" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0034" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-comfirm0035" x="6988" y="7841" width="1261" height="880" rotated="true" frameX="-209" frameY="-194" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0000" x="6520" y="2597" width="636" height="1291" frameX="-263" frameY="-169" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0001" x="6520" y="2597" width="636" height="1291" frameX="-263" frameY="-169" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0002" x="6520" y="2597" width="636" height="1291" frameX="-263" frameY="-169" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0003" x="6520" y="2597" width="636" height="1291" frameX="-263" frameY="-169" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0004" x="6520" y="2597" width="636" height="1291" frameX="-263" frameY="-169" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0005" x="6556" y="1300" width="635" height="1294" frameX="-264" frameY="-168" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0006" x="6556" y="1300" width="635" height="1294" frameX="-264" frameY="-168" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0007" x="6556" y="1300" width="635" height="1294" frameX="-264" frameY="-168" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0008" x="6556" y="1300" width="635" height="1294" frameX="-264" frameY="-168" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="Zalgo-loop0009" x="6556" y="1300" width="635" height="1294" frameX="-264" frameY="-168" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0000" x="7656" y="5168" width="581" height="944" frameX="-286" frameY="-420" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0001" x="7656" y="5168" width="581" height="944" frameX="-286" frameY="-420" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0002" x="5182" y="8635" width="1055" height="728" rotated="true" frameX="-214" frameY="-313" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0003" x="5182" y="8635" width="1055" height="728" rotated="true" frameX="-214" frameY="-313" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0004" x="5182" y="8635" width="1055" height="728" rotated="true" frameX="-214" frameY="-313" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0005" x="2565" y="8316" width="1213" height="872" rotated="true" frameX="-170" frameY="-149" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0006" x="2565" y="8316" width="1213" height="872" rotated="true" frameX="-170" frameY="-149" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0007" x="2565" y="8316" width="1213" height="872" rotated="true" frameX="-170" frameY="-149" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0008" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0009" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0010" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0011" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0012" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0013" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0014" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0015" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0016" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0017" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0018" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0019" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0020" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0021" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0022" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0023" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0024" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0025" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0026" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0027" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0028" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0029" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0030" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0031" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0032" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0033" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0034" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0035" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0036" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0037" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0038" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0039" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0040" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0041" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0042" x="1277" y="8381" width="1183" height="875" rotated="true" frameX="-167" frameY="-176" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0043" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0044" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0045" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0046" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-comfirm0047" x="2649" y="5746" width="1300" height="922" rotated="true" frameX="-160" frameY="-189" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0000" x="8252" y="7586" width="488" height="921" frameX="-395" frameY="-431" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0001" x="8252" y="7586" width="488" height="921" frameX="-395" frameY="-431" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0002" x="8252" y="7586" width="488" height="921" frameX="-395" frameY="-431" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0003" x="8252" y="7586" width="488" height="921" frameX="-395" frameY="-431" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0004" x="8252" y="7586" width="488" height="921" frameX="-395" frameY="-431" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0005" x="7733" y="6115" width="491" height="933" frameX="-393" frameY="-428" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0006" x="7733" y="6115" width="491" height="933" frameX="-393" frameY="-428" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0007" x="7733" y="6115" width="491" height="933" frameX="-393" frameY="-428" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0008" x="7733" y="6115" width="491" height="933" frameX="-393" frameY="-428" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="bad-dreams-loop0009" x="7733" y="6115" width="491" height="933" frameX="-393" frameY="-428" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="custard-comfirm0000" x="1" y="1" width="977" height="1542" frameX="-48" frameY="-8" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0001" x="1" y="1" width="977" height="1542" frameX="-48" frameY="-8" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0002" x="1" y="1" width="977" height="1542" frameX="-48" frameY="-8" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0003" x="2889" y="2865" width="1423" height="1018" rotated="true" frameX="-11" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0004" x="2889" y="2865" width="1423" height="1018" rotated="true" frameX="-11" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0005" x="2889" y="2865" width="1423" height="1018" rotated="true" frameX="-11" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0006" x="1427" y="4005" width="1419" height="1031" rotated="true" frameX="-0" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0007" x="1427" y="4005" width="1419" height="1031" rotated="true" frameX="-0" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0008" x="1427" y="4005" width="1419" height="1031" rotated="true" frameX="-0" frameY="-0" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0009" x="2849" y="4004" width="1411" height="1023" rotated="true" frameX="-11" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0010" x="2849" y="4004" width="1411" height="1023" rotated="true" frameX="-11" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0011" x="2849" y="4004" width="1411" height="1023" rotated="true" frameX="-11" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0012" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0013" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0014" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0015" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0016" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0017" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0018" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0019" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0020" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0021" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0022" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0023" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0024" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0025" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0026" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0027" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0028" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0029" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0030" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0031" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0032" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0033" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0034" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0035" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0036" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0037" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0038" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0039" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0040" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0041" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0042" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0043" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0044" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="custard-comfirm0045" x="4731" y="1" width="1020" height="1410" frameX="-13" frameY="-2" frameWidth="1034" frameHeight="1551"/>
+	<SubTexture name="dipsy-comfirm0000" x="2849" y="5030" width="1328" height="713" rotated="true" frameX="-261" frameY="-160" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0001" x="2849" y="5030" width="1328" height="713" rotated="true" frameX="-261" frameY="-160" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0002" x="5754" y="1326" width="763" height="1316" frameX="-223" frameY="-171" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0003" x="5754" y="1326" width="763" height="1316" frameX="-223" frameY="-171" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0004" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0005" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0006" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0007" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0008" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0009" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0010" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0011" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0012" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0013" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0014" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0015" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0016" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0017" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0018" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0019" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0020" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0021" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0022" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0023" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0024" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0025" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0026" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0027" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0028" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0029" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0030" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0031" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0032" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0033" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0034" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0035" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0036" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0037" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0038" x="1" y="6225" width="1308" height="751" rotated="true" frameX="-230" frameY="-173" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0039" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0040" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0041" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0042" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-comfirm0043" x="5749" y="2645" width="751" height="1312" frameX="-231" frameY="-172" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0000" x="4263" y="4960" width="1331" height="681" rotated="true" frameX="-270" frameY="-159" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0001" x="4263" y="4960" width="1331" height="681" rotated="true" frameX="-270" frameY="-159" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0002" x="4263" y="4960" width="1331" height="681" rotated="true" frameX="-270" frameY="-159" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0003" x="4263" y="4960" width="1331" height="681" rotated="true" frameX="-270" frameY="-159" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0004" x="4263" y="4960" width="1331" height="681" rotated="true" frameX="-270" frameY="-159" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0005" x="1427" y="5039" width="1324" height="674" rotated="true" frameX="-274" frameY="-165" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0006" x="1427" y="5039" width="1324" height="674" rotated="true" frameX="-274" frameY="-165" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0007" x="1427" y="5039" width="1324" height="674" rotated="true" frameX="-274" frameY="-165" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0008" x="1427" y="5039" width="1324" height="674" rotated="true" frameX="-274" frameY="-165" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="dipsy-loop0009" x="1427" y="5039" width="1324" height="674" rotated="true" frameX="-274" frameY="-165" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0000" x="1342" y="5716" width="1304" height="852" rotated="true" frameX="-170" frameY="-285" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0001" x="1342" y="5716" width="1304" height="852" rotated="true" frameX="-170" frameY="-285" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0002" x="6079" y="5272" width="859" height="1286" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0003" x="6079" y="5272" width="859" height="1286" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0004" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0005" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0006" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0007" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0008" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0009" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0010" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0011" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0012" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0013" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0014" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0015" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0016" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0017" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0018" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0019" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0020" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0021" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0022" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0023" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0024" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0025" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0026" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0027" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0028" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0029" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0030" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0031" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0032" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0033" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0034" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0035" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0036" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0037" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0038" x="6079" y="6561" width="844" height="1283" frameX="-178" frameY="-290" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0039" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0040" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0041" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0042" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-comfirm0043" x="2632" y="6671" width="1282" height="840" rotated="true" frameX="-180" frameY="-291" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0000" x="5613" y="3960" width="796" height="1309" frameX="-168" frameY="-275" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0001" x="5613" y="3960" width="796" height="1309" frameX="-168" frameY="-275" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0002" x="5613" y="3960" width="796" height="1309" frameX="-168" frameY="-275" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0003" x="5613" y="3960" width="796" height="1309" frameX="-168" frameY="-275" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0004" x="5613" y="3960" width="796" height="1309" frameX="-168" frameY="-275" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0005" x="5754" y="1" width="799" height="1322" frameX="-173" frameY="-268" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0006" x="5754" y="1" width="799" height="1322" frameX="-173" frameY="-268" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0007" x="5754" y="1" width="799" height="1322" frameX="-173" frameY="-268" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0008" x="5754" y="1" width="799" height="1322" frameX="-173" frameY="-268" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="george-loop0009" x="5754" y="1" width="799" height="1322" frameX="-173" frameY="-268" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0000" x="7987" y="3834" width="837" height="1262" frameX="-129" frameY="-228" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0001" x="7987" y="3834" width="837" height="1262" frameX="-129" frameY="-228" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0002" x="3917" y="6783" width="1281" height="954" rotated="true" frameX="-117" frameY="-210" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0003" x="3917" y="6783" width="1281" height="954" rotated="true" frameX="-117" frameY="-210" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0004" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0005" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0006" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0007" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0008" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0009" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0010" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0011" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0012" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0013" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0014" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0015" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0016" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0017" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0018" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0019" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0020" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0021" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0022" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0023" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0024" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0025" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0026" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0027" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0028" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0029" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0030" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0031" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0032" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0033" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0034" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0035" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0036" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0037" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0038" x="1" y="6979" width="1285" height="924" rotated="true" frameX="-115" frameY="-213" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0039" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0040" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0041" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0042" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-comfirm0043" x="3908" y="7847" width="1271" height="927" rotated="true" frameX="-115" frameY="-212" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0000" x="7244" y="1" width="849" height="1281" frameX="-144" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0001" x="7244" y="1" width="849" height="1281" frameX="-144" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0002" x="7244" y="1" width="849" height="1281" frameX="-144" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0003" x="7244" y="1" width="849" height="1281" frameX="-144" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0004" x="7244" y="1" width="849" height="1281" frameX="-144" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0005" x="7244" y="1285" width="845" height="1281" frameX="-147" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0006" x="7244" y="1285" width="845" height="1281" frameX="-147" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0007" x="7244" y="1285" width="845" height="1281" frameX="-147" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0008" x="7244" y="1285" width="845" height="1281" frameX="-147" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="guttsDVD-loop0009" x="7244" y="1285" width="845" height="1281" frameX="-147" frameY="-218" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0000" x="6926" y="6561" width="804" height="1277" frameX="-108" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0001" x="6926" y="6561" width="804" height="1277" frameX="-108" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0002" x="2632" y="7514" width="1273" height="799" rotated="true" frameX="-200" frameY="-208" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0003" x="2632" y="7514" width="1273" height="799" rotated="true" frameX="-200" frameY="-208" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0004" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0005" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0006" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0007" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0008" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0009" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0010" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0011" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0012" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0013" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0014" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0015" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0016" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0017" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0018" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0019" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0020" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0021" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0022" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0023" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0024" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0025" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0026" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0027" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0028" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0029" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0030" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0031" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0032" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0033" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0034" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0035" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0036" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0037" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0038" x="5721" y="7847" width="1264" height="785" rotated="true" frameX="-205" frameY="-202" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0039" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0040" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0041" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0042" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-comfirm0043" x="8096" y="1" width="785" height="1264" frameX="-204" frameY="-203" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0000" x="7078" y="3891" width="715" height="1274" frameX="-181" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0001" x="7078" y="3891" width="715" height="1274" frameX="-181" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0002" x="7078" y="3891" width="715" height="1274" frameX="-181" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0003" x="7078" y="3891" width="715" height="1274" frameX="-181" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0004" x="7078" y="3891" width="715" height="1274" frameX="-181" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0005" x="6941" y="5249" width="712" height="1277" frameX="-183" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0006" x="6941" y="5249" width="712" height="1277" frameX="-183" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0007" x="6941" y="5249" width="712" height="1277" frameX="-183" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0008" x="6941" y="5249" width="712" height="1277" frameX="-183" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="laa-laa-loop0009" x="6941" y="5249" width="712" height="1277" frameX="-183" frameY="-204" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0000" x="8092" y="1285" width="636" height="1241" frameX="-245" frameY="-184" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0001" x="8092" y="1285" width="636" height="1241" frameX="-245" frameY="-184" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0002" x="8252" y="5099" width="616" height="1241" frameX="-269" frameY="-186" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0003" x="8252" y="5099" width="616" height="1241" frameX="-269" frameY="-186" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0004" x="6412" y="3960" width="663" height="1286" frameX="-249" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0005" x="6412" y="3960" width="663" height="1286" frameX="-249" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0006" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0007" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0008" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0009" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0010" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0011" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0012" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0013" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0014" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0015" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0016" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0017" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0018" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0019" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0020" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0021" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0022" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0023" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0024" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0025" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0026" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0027" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0028" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0029" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0030" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0031" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0032" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0033" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0034" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0035" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0036" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0037" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0038" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0039" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0040" x="1312" y="6571" width="658" height="1285" frameX="-256" frameY="-161" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0041" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0042" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0043" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0044" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-comfirm0045" x="1973" y="6571" width="656" height="1283" frameX="-255" frameY="-162" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0000" x="8252" y="6343" width="617" height="1240" frameX="-237" frameY="-179" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0001" x="8252" y="6343" width="617" height="1240" frameX="-237" frameY="-179" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0002" x="8252" y="6343" width="617" height="1240" frameX="-237" frameY="-179" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0003" x="8252" y="6343" width="617" height="1240" frameX="-237" frameY="-179" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0004" x="8252" y="6343" width="617" height="1240" frameX="-237" frameY="-179" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0005" x="1" y="8826" width="1240" height="617" rotated="true" frameX="-236" frameY="-180" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0006" x="1" y="8826" width="1240" height="617" rotated="true" frameX="-236" frameY="-180" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0007" x="1" y="8826" width="1240" height="617" rotated="true" frameX="-236" frameY="-180" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0008" x="1" y="8826" width="1240" height="617" rotated="true" frameX="-236" frameY="-180" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="po-loop0009" x="1" y="8826" width="1240" height="617" rotated="true" frameX="-236" frameY="-180" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0000" x="8872" y="4609" width="1082" height="1124" rotated="true" frameX="-32" frameY="-438" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0001" x="8872" y="4609" width="1082" height="1124" rotated="true" frameX="-32" frameY="-438" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0002" x="8884" y="1" width="1076" height="1156" rotated="true" frameX="-42" frameY="-444" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0003" x="8884" y="1" width="1076" height="1156" rotated="true" frameX="-42" frameY="-444" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0004" x="8872" y="2313" width="1069" height="1148" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0005" x="8872" y="2313" width="1069" height="1148" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0006" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0007" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0008" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0009" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0010" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0011" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0012" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0013" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0014" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0015" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0016" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0017" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0018" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0019" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0020" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0021" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0022" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0023" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0024" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0025" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0026" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0027" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0028" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0029" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0030" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0031" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0032" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0033" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0034" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0035" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0036" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0037" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0038" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0039" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0040" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0041" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0042" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0043" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0044" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0045" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0046" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0047" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0048" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0049" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0050" x="8872" y="3464" width="1066" height="1142" rotated="true" frameX="-30" frameY="-454" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0051" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0052" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0053" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0054" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-comfirm0055" x="8884" y="1160" width="1069" height="1150" rotated="true" frameX="-22" frameY="-451" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0000" x="8872" y="6842" width="983" height="1101" frameX="-26" frameY="-419" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0001" x="8872" y="6842" width="983" height="1101" frameX="-26" frameY="-419" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0002" x="8872" y="6842" width="983" height="1101" frameX="-26" frameY="-419" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0003" x="8872" y="6842" width="983" height="1101" frameX="-26" frameY="-419" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0004" x="8872" y="6842" width="983" height="1101" frameX="-26" frameY="-419" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0005" x="8872" y="5736" width="972" height="1103" frameX="-31" frameY="-417" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0006" x="8872" y="5736" width="972" height="1103" frameX="-31" frameY="-417" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0007" x="8872" y="5736" width="972" height="1103" frameX="-31" frameY="-417" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0008" x="8872" y="5736" width="972" height="1103" frameX="-31" frameY="-417" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="ron-loop0009" x="8872" y="5736" width="972" height="1103" frameX="-31" frameY="-417" frameWidth="1200" frameHeight="1600"/>
+	<SubTexture name="tinky-comfirm0000" x="4315" y="2865" width="1396" height="1055" rotated="true" frameX="-145" frameY="-182" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0001" x="4315" y="2865" width="1396" height="1055" rotated="true" frameX="-145" frameY="-182" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0002" x="3952" y="6217" width="1299" height="563" rotated="true" frameX="-348" frameY="-198" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0003" x="3952" y="6217" width="1299" height="563" rotated="true" frameX="-348" frameY="-198" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0004" x="5499" y="5644" width="577" height="1305" frameX="-313" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0005" x="5499" y="5644" width="577" height="1305" frameX="-313" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0006" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0007" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0008" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0009" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0010" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0011" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0012" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0013" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0014" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0015" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0016" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0017" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0018" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0019" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0020" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0021" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0022" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0023" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0024" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0025" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0026" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0027" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0028" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0029" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0030" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0031" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0032" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0033" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0034" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0035" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0036" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0037" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0038" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0039" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0040" x="2935" y="1467" width="571" height="1311" frameX="-311" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0041" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0042" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0043" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0044" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-comfirm0045" x="4180" y="5644" width="1316" height="570" rotated="true" frameX="-314" frameY="-183" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0000" x="1289" y="7859" width="1273" height="519" rotated="true" frameX="-364" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0001" x="1289" y="7859" width="1273" height="519" rotated="true" frameX="-364" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0002" x="1289" y="7859" width="1273" height="519" rotated="true" frameX="-364" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0003" x="1289" y="7859" width="1273" height="519" rotated="true" frameX="-364" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0004" x="1289" y="7859" width="1273" height="519" rotated="true" frameX="-364" frameY="-185" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0005" x="5201" y="6952" width="517" height="1266" frameX="-365" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0006" x="5201" y="6952" width="517" height="1266" frameX="-365" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0007" x="5201" y="6952" width="517" height="1266" frameX="-365" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0008" x="5201" y="6952" width="517" height="1266" frameX="-365" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+	<SubTexture name="tinky-loop0009" x="5201" y="6952" width="517" height="1266" frameX="-365" frameY="-186" frameWidth="1200" frameHeight="1599"/>
+</TextureAtlas>

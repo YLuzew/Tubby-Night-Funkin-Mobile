@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tinky.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flash-back10000" x="0" y="0" width="840" height="941"/>
+	<SubTexture name="flash-back10001" x="0" y="0" width="840" height="941"/>
+	<SubTexture name="flash-back10002" x="0" y="0" width="840" height="941"/>
+	<SubTexture name="flash-back10003" x="0" y="0" width="840" height="941"/>
+	<SubTexture name="flash-back10004" x="0" y="941" width="840" height="941"/>
+	<SubTexture name="flash-back10005" x="0" y="941" width="840" height="941"/>
+	<SubTexture name="flash-back10006" x="0" y="941" width="840" height="941"/>
+	<SubTexture name="flash-back10007" x="0" y="941" width="840" height="941"/>
+</TextureAtlas>

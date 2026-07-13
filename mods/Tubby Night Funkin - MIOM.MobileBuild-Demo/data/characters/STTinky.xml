@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="300" y="80" sprite="TinkyWinky/ST-tinky-winky" camx="120" camy="10" icon="ST Tinky" color="#7245D2">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-75" y="-20" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="alt-right0" x="-109" y="-16" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="108" y="-22" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="alt-left0" x="185" y="-15" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="63" y="-22" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="alt-left0" x="80" y="-15" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="12" y="48" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="alt-up0" x="-35" y="-100" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-50" y="-117" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="alt-down0" x="-55" y="-168" fps="24" loop="false"/>
+	<anim name="scream-one" anim="scream-one0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="scream-two" anim="scream-two0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="scream-one" anim="scream-one0" x="50" y="-20" fps="24" loop="false"/>
+	<anim name="scream-two" anim="scream-two0" x="140" y="-20" fps="24" loop="false"/>
+</character>

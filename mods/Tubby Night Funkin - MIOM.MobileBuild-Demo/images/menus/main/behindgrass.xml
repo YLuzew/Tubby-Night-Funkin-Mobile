@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="grass behind.png" width="1807" height="208">
+	<SubTexture name="Occurrence hill-outback 10000" x="1" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+	<SubTexture name="Occurrence hill-outback 10001" x="1" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+	<SubTexture name="Occurrence hill-outback 10002" x="1" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+	<SubTexture name="Occurrence hill-outback 10003" x="905" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+	<SubTexture name="Occurrence hill-outback 10004" x="905" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+	<SubTexture name="Occurrence hill-outback 10005" x="905" y="1" width="901" height="206" frameX="-0" frameY="-0" frameWidth="901" frameHeight="207"/>
+</TextureAtlas>

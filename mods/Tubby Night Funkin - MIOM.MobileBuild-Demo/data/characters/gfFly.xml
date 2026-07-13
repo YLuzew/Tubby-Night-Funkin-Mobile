@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="1000" y="-350" sprite="Girlfriend/gf-fly-anim" icon="gf" color="#A5004D" isGF="true" flipX="true">
+	<anim name="fly" anim="flys"/>
+</character>

@@ -1,0 +1,36 @@
+﻿{"ATLAS": {"SPRITES":[ 
+{"SPRITE" : {"name": "0001","x":757,"y":1,"w":635,"h":983,"rotated": false}},
+{"SPRITE" : {"name": "0002","x":1,"y":1,"w":755,"h":950,"rotated": false}},
+{"SPRITE" : {"name": "0003","x":1393,"y":1,"w":346,"h":367,"rotated": false}},
+{"SPRITE" : {"name": "0004","x":1484,"y":1469,"w":146,"h":279,"rotated": false}},
+{"SPRITE" : {"name": "0005","x":1321,"y":985,"w":67,"h":103,"rotated": false}},
+{"SPRITE" : {"name": "0006","x":405,"y":1383,"w":243,"h":258,"rotated": false}},
+{"SPRITE" : {"name": "0007","x":1703,"y":743,"w":284,"h":422,"rotated": true}},
+{"SPRITE" : {"name": "0008","x":1703,"y":369,"w":327,"h":373,"rotated": true}},
+{"SPRITE" : {"name": "0009","x":1988,"y":743,"w":45,"h":98,"rotated": false}},
+{"SPRITE" : {"name": "0010","x":1,"y":952,"w":335,"h":329,"rotated": false}},
+{"SPRITE" : {"name": "0011","x":1740,"y":1,"w":285,"h":333,"rotated": false}},
+{"SPRITE" : {"name": "0012","x":1321,"y":1099,"w":235,"h":343,"rotated": false}},
+{"SPRITE" : {"name": "0013","x":1,"y":1282,"w":218,"h":325,"rotated": false}},
+{"SPRITE" : {"name": "0014","x":1020,"y":1258,"w":296,"h":265,"rotated": false}},
+{"SPRITE" : {"name": "0015","x":1393,"y":773,"w":287,"h":325,"rotated": false}},
+{"SPRITE" : {"name": "0016","x":337,"y":952,"w":213,"h":402,"rotated": false}},
+{"SPRITE" : {"name": "0017","x":763,"y":985,"w":256,"h":327,"rotated": false}},
+{"SPRITE" : {"name": "0018","x":763,"y":1313,"w":186,"h":375,"rotated": false}},
+{"SPRITE" : {"name": "0019","x":220,"y":1355,"w":184,"h":352,"rotated": false}},
+{"SPRITE" : {"name": "0020","x":551,"y":985,"w":211,"h":397,"rotated": false}},
+{"SPRITE" : {"name": "0021","x":1020,"y":985,"w":300,"h":272,"rotated": false}},
+{"SPRITE" : {"name": "0022","x":1557,"y":1166,"w":266,"h":302,"rotated": false}},
+{"SPRITE" : {"name": "0023","x":1824,"y":1166,"w":216,"h":336,"rotated": false}},
+{"SPRITE" : {"name": "0024","x":1393,"y":369,"w":309,"h":403,"rotated": false}},
+{"SPRITE" : {"name": "0025","x":1317,"y":1443,"w":166,"h":253,"rotated": true}}
+]},
+"meta": {
+"app": "Adobe Animate",
+"version": "23.0.0.407",
+"image": "spritemap1.png",
+"format": "RGBA8888",
+"size": {"w":2041,"h":1749},
+"resolution": "1"
+}
+}

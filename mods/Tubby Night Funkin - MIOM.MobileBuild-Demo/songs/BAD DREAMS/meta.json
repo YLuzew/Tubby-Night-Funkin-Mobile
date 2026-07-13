@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#272838",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal",
+		"hard",
+		"easy"
+	],
+	"icon": "shadow tubbie",
+	"coopAllowed": false,
+	"artists": "5Kat (feat. ewo)",
+	"stepsPerBeat": 4,
+	"displayName": "BAD DREAMS",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 190
+}

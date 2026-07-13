@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flowers-hud.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence flowers-hud 10000" x="1" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10001" x="1" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10002" x="1" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10003" x="1" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10004" x="1" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10005" x="3029" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10006" x="3029" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10007" x="3029" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10008" x="3029" y="1" width="3027" height="1802"/>
+	<SubTexture name="Occurrence flowers-hud 10009" x="3029" y="1" width="3027" height="1802"/>
+</TextureAtlas>

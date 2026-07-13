@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="170" y="90" sprite="zalgoDVD" camx="0" camy="10" icon="zalgo" color="#434343"> 
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-65" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="76" y="2" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="5" y="50" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-49" y="-57" fps="24" loop="false"/>
+</character>

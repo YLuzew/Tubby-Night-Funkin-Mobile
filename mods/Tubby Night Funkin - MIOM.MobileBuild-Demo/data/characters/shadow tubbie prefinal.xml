@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="1200" y="-600" sprite="ShadowTubbie/shadow-tubbie-smile" scale="1.5" camx="-450" camy="-500" icon="shadow tubbie" color="#232323">
+	<anim name="shadow-tubbie-smile fades-in" anim="shadow-tubbie-smile fades-in0"/>
+	<anim name="idle" anim="shadow-tubbie-smile idle0" loop="true"/>
+	<anim name="singRIGHT" anim="shadow-tubbie-smile right0"/>
+	<anim name="singUP" anim="shadow-tubbie-smile up0"/>
+	<anim name="singLEFT" anim="shadow-tubbie-smile left0"/>
+	<anim name="singDOWN" anim="shadow-tubbie-smile down0"/>
+</character>

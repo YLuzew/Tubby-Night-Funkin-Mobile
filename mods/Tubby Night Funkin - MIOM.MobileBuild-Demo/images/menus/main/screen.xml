@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screen.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence tv 10000" x="0" y="0" width="2272" height="1832"/>
+	<SubTexture name="Occurrence tv 10001" x="0" y="0" width="2272" height="1832"/>
+	<SubTexture name="Occurrence tv 10002" x="0" y="0" width="2272" height="1832"/>
+	<SubTexture name="Occurrence tv 10003" x="0" y="1832" width="2272" height="1832"/>
+	<SubTexture name="Occurrence tv 10004" x="0" y="1832" width="2272" height="1832"/>
+	<SubTexture name="Occurrence tv 10005" x="0" y="1832" width="2272" height="1832"/>
+</TextureAtlas>

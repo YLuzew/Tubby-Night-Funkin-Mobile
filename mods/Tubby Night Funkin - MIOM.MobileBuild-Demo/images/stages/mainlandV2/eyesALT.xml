@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="eyesALT.png" width="144" height="35">
+	<SubTexture name="po-eyes copy instance 10000" x="74" y="1" width="69" height="33" frameX="-1" frameY="-0" frameWidth="71" frameHeight="34"/>
+	<SubTexture name="po-eyes copy instance 10001" x="74" y="1" width="69" height="33" frameX="-1" frameY="-0" frameWidth="71" frameHeight="34"/>
+	<SubTexture name="po-eyes copy instance 10002" x="1" y="1" width="70" height="33" frameX="-1" frameY="-1" frameWidth="71" frameHeight="34"/>
+	<SubTexture name="po-eyes copy instance 10003" x="1" y="1" width="70" height="33" frameX="-1" frameY="-1" frameWidth="71" frameHeight="34"/>
+	<SubTexture name="po-eyes copy instance 10004" x="1" y="1" width="70" height="33" frameX="-0" frameY="-1" frameWidth="71" frameHeight="34"/>
+	<SubTexture name="po-eyes copy instance 10005" x="1" y="1" width="70" height="33" frameX="-0" frameY="-1" frameWidth="71" frameHeight="34"/>
+</TextureAtlas>

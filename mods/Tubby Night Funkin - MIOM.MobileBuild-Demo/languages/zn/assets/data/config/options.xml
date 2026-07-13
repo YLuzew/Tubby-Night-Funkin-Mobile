@@ -1,0 +1,10 @@
+<menu name="天线夜放克" desc="在此修改 TNF 选项">
+    <checkbox id="censorPoCustard" name="和谐模式" desc="开启以隐藏图形内容（Po 和 Custard）。" />
+    <checkbox id="RemoveHurtNote" name="移除伤害音符" desc="移除伤害音符" />
+</menu>
+<menu name="额外设置" desc="由MIOM和Luzew添加的额外设置">
+    <checkbox id="MiddleScroll" name="中间滚动" desc="中间滚动" />
+    <checkbox id="botplay" name="程序操控" desc="开启程序操控-MIOM" />
+    <checkbox id="NFrating" name="NF式评分" desc="NF引擎的特殊评分('?!虽弓弓虽!?'评分)" />
+    <checkbox id="pe" name="PE判" desc="将你的箭头判定改为PE判" />
+</menu>

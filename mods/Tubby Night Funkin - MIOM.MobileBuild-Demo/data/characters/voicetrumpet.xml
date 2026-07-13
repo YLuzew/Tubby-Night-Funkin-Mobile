@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="500" y="320" sprite="voice-trumpet" camx="50" camy="10" icon="Tinky winky">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singRIGHT" anim="right0" x="0" y="31" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="71" y="64" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="0" y="103" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="voice-trumpet-pops-out" anim="voice-trumpet-pops-out0" x="7" y="6" fps="24" loop="false"/>
+	<anim name="voice-trumpet-pops-in" anim="voice-trumpet-pops-out0" x="7" y="6" fps="24" loop="false" indices="13..0"/>
+</character>

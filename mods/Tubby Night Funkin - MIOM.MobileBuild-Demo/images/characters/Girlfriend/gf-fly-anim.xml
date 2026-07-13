@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gffly.png" width="674" height="528">
+	<SubTexture name="flys0000" x="663" y="430" width="9" height="5" frameX="-506" frameY="-48" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0001" x="663" y="435" width="9" height="5" frameX="-506" frameY="-48" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0002" x="651" y="268" width="19" height="4" frameX="-491" frameY="-49" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0003" x="265" y="305" width="28" height="15" frameX="-475" frameY="-44" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0004" x="628" y="402" width="42" height="28" frameX="-463" frameY="-36" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0005" x="569" y="402" width="59" height="49" frameX="-442" frameY="-27" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0006" x="569" y="402" width="59" height="49" frameX="-442" frameY="-27" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0007" x="569" y="451" width="53" height="38" frameX="-433" frameY="-31" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0008" x="628" y="430" width="35" height="24" frameX="-427" frameY="-45" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0009" x="520" y="268" width="35" height="24" frameX="-427" frameY="-45" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0010" x="651" y="272" width="15" height="12" frameX="-421" frameY="-61" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0011" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0012" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0013" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0014" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0015" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0016" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0017" x="265" y="527" width="1" height="1" frameX="-0" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0018" x="265" y="276" width="28" height="29" frameX="-307" frameY="-78" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0019" x="569" y="268" width="82" height="67" frameX="-250" frameY="-64" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0020" x="569" y="335" width="82" height="67" frameX="-250" frameY="-64" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0021" x="265" y="400" width="152" height="127" frameX="-177" frameY="-22" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0022" x="417" y="400" width="152" height="127" frameX="-177" frameY="-22" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0023" x="520" y="0" width="154" height="134" frameX="-170" frameY="-17" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0024" x="520" y="0" width="154" height="134" frameX="-170" frameY="-17" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0025" x="520" y="134" width="154" height="134" frameX="-170" frameY="-17" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0026" x="297" y="0" width="223" height="200" frameX="-85" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0027" x="297" y="200" width="223" height="200" frameX="-85" frameY="-0" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0028" x="0" y="276" width="265" height="252" frameX="-0" frameY="-21" frameWidth="742" frameHeight="474"/>
+	<SubTexture name="flys0029" x="0" y="0" width="297" height="276" frameX="-73" frameY="-55" frameWidth="742" frameHeight="474"/>
+</TextureAtlas>

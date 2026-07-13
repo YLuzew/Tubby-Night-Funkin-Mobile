@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#FF003D",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"Normal",
+		"hard",
+		"easy"
+	],
+	"icon": "Po",
+	"coopAllowed": false,
+	"artists": "akinmontsho (feat. 5Kat)",
+	"stepsPerBeat": 4,
+	"displayName": "Radiant",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 137
+}

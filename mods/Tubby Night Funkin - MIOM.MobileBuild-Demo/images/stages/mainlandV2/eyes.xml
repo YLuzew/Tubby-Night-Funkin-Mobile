@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eyes.png">
+	<!-- Created with Adobe Animate version 24.0.8.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence po-eyes 10000" x="0" y="0" width="60" height="38" frameX="-1" frameY="0" frameWidth="61" frameHeight="38"/>
+	<SubTexture name="Occurrence po-eyes 10001" x="0" y="0" width="60" height="38" frameX="-1" frameY="0" frameWidth="61" frameHeight="38"/>
+	<SubTexture name="Occurrence po-eyes 10002" x="0" y="38" width="60" height="38" frameX="0" frameY="0" frameWidth="61" frameHeight="38"/>
+	<SubTexture name="Occurrence po-eyes 10003" x="0" y="38" width="60" height="38" frameX="0" frameY="0" frameWidth="61" frameHeight="38"/>
+	<SubTexture name="Occurrence po-eyes 10004" x="0" y="76" width="60" height="38" frameX="0" frameY="0" frameWidth="61" frameHeight="38"/>
+	<SubTexture name="Occurrence po-eyes 10005" x="0" y="76" width="60" height="38" frameX="0" frameY="0" frameWidth="61" frameHeight="38"/>
+</TextureAtlas>

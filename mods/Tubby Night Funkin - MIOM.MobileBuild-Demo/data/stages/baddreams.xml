@@ -1,0 +1,34 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.4" name="stage" folder="stages/badDreams/" startCamPosY="-1000" startCamPosX="1700">
+
+   <sprite name="light" x="-700" y="-200" sprite="light" scroll="0" zoomfactor="0" scale="0.5" alpha="0"/>
+
+   
+   <sprite name="solocircle" x="1250" y="730" sprite="solo-circle" scroll="1" zoomfactor="1" scale="1" alpha="0"/>
+   
+   <sprite name="mist_back" x="-350" y="0" sprite="mistBack" scrollx="0" scrolly="1" zoomfactor="1" scale="1.5" alpha="0">
+      <property name="blend" type="int" value="8" />
+   </sprite>
+
+   <sprite name="mist_mid" x="-350" y="0" sprite="mistMid" scrollx="0" scrolly="1" zoomfactor="1" scale="1.75" alpha="0">
+      <property name="blend" type="int" value="8" />
+   </sprite>
+
+   <bf x="1600" y="250" scroll="0.9"/>
+   
+   <dad x="-400" scroll="0.9"/>
+   
+   
+   <sprite name="divider" x="1280" y="-200" sprite="divider" scroll="1.1" zoomfactor="1" scale="1.5" alpha="0"/>
+   
+   <sprite name="sololight" x="1110" y="250" sprite="solo-light" scroll="1" zoomfactor="1" scale="1" alpha="0">
+      <property name="blend" type="int" value="0" />    
+	</sprite>
+   
+   <sprite name="mist_front" x="-350" y="0" sprite="mistFront" scrollx="0" scrolly="1" zoomfactor="1" scale="1.75" alpha="0">
+      <property name="blend" type="int" value="8" />
+   </sprite>
+   
+  <sprite name="evilhand" x="-500" y="-300" sprite="evil-hand" scroll="0.9" zoomfactor="1" scale="1.5" alpha="0"/>
+   <sprite name="evilhand2" x="1200" y="-300" sprite="evil-hand" scroll="0.9" zoomfactor="1" scale="1.5" alpha="0" flipX="true"/>
+</stage>

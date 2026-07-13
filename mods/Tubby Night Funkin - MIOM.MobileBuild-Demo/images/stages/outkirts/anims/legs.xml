@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="legs.png" width="2646" height="252">
+	<SubTexture name="legs0001" x="1" y="1" width="403" height="200" frameX="-367" frameY="-462" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0002" x="1" y="1" width="403" height="200" frameX="-367" frameY="-462" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0003" x="1678" y="1" width="318" height="231" frameX="-409" frameY="-447" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0004" x="1374" y="1" width="301" height="226" frameX="-389" frameY="-463" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0005" x="1374" y="1" width="301" height="226" frameX="-389" frameY="-463" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0006" x="407" y="1" width="477" height="212" frameX="-300" frameY="-467" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0007" x="887" y="1" width="484" height="222" frameX="-305" frameY="-463" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0008" x="887" y="1" width="484" height="222" frameX="-305" frameY="-463" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0009" x="1999" y="1" width="283" height="250" frameX="-425" frameY="-466" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0010" x="2285" y="1" width="360" height="250" frameX="-363" frameY="-461" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="legs0011" x="2285" y="1" width="360" height="250" frameX="-363" frameY="-461" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

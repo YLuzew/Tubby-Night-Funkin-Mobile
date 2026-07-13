@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character y="-10" sprite="Boyfriend/boyfriend-tubbie-george" flipX="true" camy="-40" isPlayer="true" icon="bf" color="#2DB2D1">
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-19" y="-3" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="right-alt" x="-29" y="4" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="40" y="1" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="left-alt" x="76" y="7" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-34" y="41" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="up-alt" x="-38" y="69" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="25" y="-30" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="down-alt" x="75" y="-25" fps="24" loop="false"/>
+	<anim name="BF HEY!!" anim="BF HEY!!0" x="-3" y="16" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="miss-down0" x="35" y="5" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="miss-left0" x="35" y="25" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="miss-right0" x="-27" y="36" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="miss-up0" x="-35" y="62" fps="24" loop="false"/>
+</character>

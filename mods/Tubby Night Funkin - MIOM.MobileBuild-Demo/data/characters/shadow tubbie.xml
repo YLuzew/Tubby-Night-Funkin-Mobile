@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="235" y="150" sprite="ShadowTubbie/SHADOW_TUBBIE" camx="-150" camy="-500" icon="shadow tubbie" color="#232323">
+	<anim name="idle" anim="shadow-tubbie-idle" x="250" y="500" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="shadow-tubbie-down" x="65" y="365" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="shadow-tubbie-left" x="365" y="495" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="shadow-tubbie-right" x="55" y="395" fps="24" loop="false"/>
+	<anim name="singUP" anim="shadow-tubbie-up" x="225" y="615" fps="24" loop="false"/>
+</character>

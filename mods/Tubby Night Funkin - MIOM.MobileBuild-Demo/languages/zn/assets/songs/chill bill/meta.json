@@ -1,0 +1,18 @@
+{
+	"color": "#8F71FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "Tinky winky",
+	"coopAllowed": false,
+	"artists": "5Kat (合作. ewo)",
+	"stepsPerBeat": 4,
+	"displayName": "悠然 比尔",
+	"playCutscene": true,
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 128
+}

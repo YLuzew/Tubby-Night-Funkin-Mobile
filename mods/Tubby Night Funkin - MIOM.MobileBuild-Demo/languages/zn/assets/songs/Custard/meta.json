@@ -1,0 +1,18 @@
+{
+	"color": "#8267DB",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "ST Tinky",
+	"difficulties": [
+		"normal",
+		"hard",
+		"easy"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "ewo (合作. 5Kat)",
+	"displayName": "饴露",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 170
+}

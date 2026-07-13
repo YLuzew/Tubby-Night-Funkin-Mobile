@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HURTnoteSplashes.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash blue 10000" x="265" y="302" width="255" height="292"/>
+	<SubTexture name="note splash blue 10001" x="525" y="302" width="255" height="292"/>
+	<SubTexture name="note splash blue 10002" x="785" y="302" width="255" height="292"/>
+	<SubTexture name="note splash blue 10003" x="1045" y="302" width="255" height="292"/>
+	<SubTexture name="note splash green 10000" x="1045" y="5" width="255" height="292"/>
+	<SubTexture name="note splash green 10001" x="1305" y="5" width="255" height="292"/>
+	<SubTexture name="note splash green 10002" x="1565" y="5" width="255" height="292"/>
+	<SubTexture name="note splash green 10003" x="5" y="302" width="255" height="292"/>
+	<SubTexture name="note splash purple 10000" x="5" y="5" width="255" height="292"/>
+	<SubTexture name="note splash purple 10001" x="265" y="5" width="255" height="292"/>
+	<SubTexture name="note splash purple 10002" x="525" y="5" width="255" height="292"/>
+	<SubTexture name="note splash purple 10003" x="785" y="5" width="255" height="292"/>
+	<SubTexture name="note splash red 10000" x="1305" y="302" width="254" height="292"/>
+	<SubTexture name="note splash red 10001" x="1564" y="302" width="254" height="292"/>
+	<SubTexture name="note splash red 10002" x="5" y="599" width="254" height="292"/>
+	<SubTexture name="note splash red 10003" x="264" y="599" width="254" height="292"/>
+</TextureAtlas>

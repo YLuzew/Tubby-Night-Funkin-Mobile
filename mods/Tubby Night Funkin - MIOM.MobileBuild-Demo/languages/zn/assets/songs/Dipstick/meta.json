@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#23C04A",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "dipsy",
+	"coopAllowed": false,
+	"artists": "ewo (合作. 5Kat)",
+	"stepsPerBeat": 4,
+	"displayName": "憨尺谣",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 140
+}

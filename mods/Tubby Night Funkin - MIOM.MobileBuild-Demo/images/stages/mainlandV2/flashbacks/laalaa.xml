@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laalaa.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flash-back20000" x="0" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20001" x="0" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20002" x="0" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20003" x="0" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20004" x="893" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20005" x="893" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20006" x="893" y="0" width="893" height="805"/>
+	<SubTexture name="flash-back20007" x="893" y="0" width="893" height="805"/>
+</TextureAtlas>

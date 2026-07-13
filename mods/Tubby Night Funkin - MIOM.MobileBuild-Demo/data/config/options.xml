@@ -1,0 +1,10 @@
+<menu name="Tubby night funkin" desc="Modify tnf options here">
+    <checkbox id="censorPoCustard" name="Censored Mode" desc="Enable to hide graphic content (Po and Custard)." />
+    <checkbox id="RemoveHurtNote" name="Remove Hurt Note" desc="Remove Hurt Note" />
+</menu>
+<menu name="Extra Settings" desc="Additional settings added by MIOM and Luzew">
+    <checkbox id="MiddleScroll" name="MiddleScroll" desc="MiddleScroll" />
+    <checkbox id="botplay" name="botplay" desc="Open Botplay-MIOM" />
+    <checkbox id="NFrating" name="NF RATING" desc="NovaFlare Engine Judgment Mode(The rating 'CRAZY!!')" />
+    <checkbox id="pe" name="Hitwindow PE" desc="Change the hitwindow to PE" />
+</menu>

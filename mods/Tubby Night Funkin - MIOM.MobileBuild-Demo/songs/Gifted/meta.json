@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#C9A77F",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"HARD",
+		"NORMAL",
+		"EASY"
+	],
+	"icon": "newborn",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "ewo",
+	"displayName": "Gifted",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 133
+}

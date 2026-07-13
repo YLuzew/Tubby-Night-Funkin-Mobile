@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="1655" y="562" sprite="LaaLaa/laa-laa-running" flipX="true" camy="0" isPlayer="true" icon="outskirt" color="#BBAF57">
+	<anim name="idle" anim="idle-body0" loop="true"/>
+	<anim name="singLEFT" anim="left-body0" x="117" y="4"/>
+	<anim name="singRIGHT" anim="right-body0" x="-38" y="1"/>
+	<anim name="singUP" anim="up-body0" x="-71" y="106"/>
+	<anim name="singDOWN" anim="down-body0" x="212" y="-24"/>
+</character>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="unlocked freeplay.png" width="4738" height="4694">
+	<SubTexture name="unlocked loop0000" x="3941" y="1188" width="796" height="1188" rotated="true" frameX="-2" frameY="-1" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0001" x="3941" y="1188" width="796" height="1188" rotated="true" frameX="-2" frameY="-1" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0002" x="3941" y="1188" width="796" height="1188" rotated="true" frameX="-2" frameY="-1" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0003" x="3941" y="1188" width="796" height="1188" rotated="true" frameX="-2" frameY="-1" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0004" x="3941" y="1188" width="796" height="1188" rotated="true" frameX="-2" frameY="-1" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0005" x="3940" y="2376" width="797" height="1188" rotated="true" frameX="-0" frameY="-0" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0006" x="3940" y="2376" width="797" height="1188" rotated="true" frameX="-0" frameY="-0" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0007" x="3940" y="2376" width="797" height="1188" rotated="true" frameX="-0" frameY="-0" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0008" x="3940" y="2376" width="797" height="1188" rotated="true" frameX="-0" frameY="-0" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked loop0009" x="3940" y="2376" width="797" height="1188" rotated="true" frameX="-0" frameY="-0" frameWidth="1191" frameHeight="797"/>
+	<SubTexture name="unlocked freeplay0000" x="4737" y="1188" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0001" x="4737" y="1188" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0002" x="0" y="411" width="1388" height="98" frameX="-338" frameY="-625" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0003" x="0" y="0" width="1457" height="411" frameX="-301" frameY="-468" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0004" x="1219" y="3655" width="1190" height="945" frameX="-431" frameY="-197" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0005" x="1219" y="3655" width="1190" height="945" frameX="-431" frameY="-197" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0006" x="0" y="509" width="1245" height="877" frameX="-403" frameY="-232" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0007" x="0" y="1386" width="1221" height="831" frameX="-418" frameY="-259" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0008" x="1457" y="0" width="829" height="1219" rotated="true" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0009" x="0" y="2217" width="1219" height="829" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0010" x="1245" y="1219" width="829" height="1219" rotated="true" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0011" x="2286" y="0" width="829" height="1219" rotated="true" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0012" x="2074" y="1219" width="829" height="1219" rotated="true" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0013" x="0" y="3046" width="1219" height="829" frameX="-419" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0014" x="1219" y="2438" width="828" height="1217" rotated="true" frameX="-420" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0015" x="2047" y="2438" width="828" height="1217" rotated="true" frameX="-420" frameY="-260" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0016" x="3115" y="0" width="826" height="1217" rotated="true" frameX="-420" frameY="-261" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0017" x="3115" y="1217" width="825" height="1215" rotated="true" frameX="-421" frameY="-261" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0018" x="2903" y="2432" width="823" height="1213" rotated="true" frameX="-422" frameY="-262" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0019" x="0" y="3875" width="1210" height="819" frameX="-424" frameY="-264" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0020" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0021" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0022" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0023" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0024" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0025" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0026" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0027" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0028" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0029" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0030" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0031" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0032" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0033" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0034" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0035" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0036" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0037" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0038" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0039" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0040" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0041" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0042" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0043" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0044" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0045" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0046" x="3941" y="0" width="797" height="1188" rotated="true" frameX="-431" frameY="-275" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0047" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0048" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+	<SubTexture name="unlocked freeplay0049" x="2409" y="3655" width="1188" height="796" frameX="-433" frameY="-276" frameWidth="1764" frameHeight="1153"/>
+</TextureAtlas>

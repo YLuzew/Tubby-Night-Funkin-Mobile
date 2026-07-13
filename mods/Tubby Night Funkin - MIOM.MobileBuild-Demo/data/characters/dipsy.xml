@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="dipsy" camx="250" icon="dipsy" color="#3BAF45">
+	<anim name="idle" anim="idle0" x="-20" y="5" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="alt-down0" x="-80" y="-15" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="alt-up0" x="-91" y="-15" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="20" y="-20" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="110" y="10" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-72" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-40" y="66" fps="24" loop="false"/>
+</character>

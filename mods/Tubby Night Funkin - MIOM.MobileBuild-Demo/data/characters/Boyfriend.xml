@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-character>
+<character y="-10" sprite="Boyfriend/boyfriend-tubbie" flipX="true" camy="-40" isPlayer="true" icon="bf" color="#2DB2D1">
+	<anim name="idle" anim="idle0"/>
+	<anim name="singRIGHT" anim="right0" x="-19" y="-3"/>
+	<anim name="singRIGHT-alt" anim="right-alt" x="-29" y="4"/>
+	<anim name="singLEFT" anim="left0" x="40" y="1"/>
+	<anim name="singLEFT-alt" anim="left-alt" x="76" y="7"/>
+	<anim name="singUP" anim="up0" x="-34" y="41"/>
+	<anim name="singUP-alt" anim="up-alt" x="-38" y="69"/>
+	<anim name="singDOWN" anim="down0" x="25" y="-30"/>
+	<anim name="singDOWN-alt" anim="down-alt" x="75" y="-25"/>
+	<anim name="BF HEY!!" anim="BF HEY!!0" x="-3" y="16"/>
+	<anim name="singDOWNmiss" anim="miss-down0" x="35" y="5"/>
+	<anim name="singLEFTmiss" anim="miss-left0" x="35" y="25"/>
+	<anim name="singRIGHTmiss" anim="miss-right0" x="-27" y="36"/>
+	<anim name="singUPmiss" anim="miss-up0" x="-35" y="62"/>
+	<anim name="bf-wait-what" anim="bf-wait-what0" x="24" y="10"/>
+	<anim name="singDOWN-dance" anim="oh yeah" x="20" y="30" indices="0..4"/>
+	<anim name="idk" anim="bf-wait-what" x="24" y="10" indices="146..152,163"/>
+	<anim name="singUP-dance" anim="oh yeah" x="20" y="30" indices="5..9"/>
+</character>

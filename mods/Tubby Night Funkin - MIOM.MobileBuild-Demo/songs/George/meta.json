@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#7CBAFF",
+	"opponentModeAllowed": false,
+	"icon": "george",
+	"difficulties": [
+		"HARD",
+		"NORMAL",
+		"EASY"
+	],
+	"coopAllowed": false,
+	"artists": "LyricalMaxi (feat. Csauce)",
+	"stepsPerBeat": 4,
+	"displayName": "George",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

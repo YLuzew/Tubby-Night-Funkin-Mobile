@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" y="200" sprite="ron-carnage" scale="1.3" flipX="true" camx="-90" camy="-90" isPlayer="true" icon="ron" color="#4172B6">
+	<anim name="idle" anim="ron-idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="ron-alt-idle" x="-110" y="10" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="ron-left0" x="64" y="-8" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="ron-right0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="ron-up0" x="-45" y="20" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="ron-down0" x="67" y="-52" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="ron-miss-down0" x="67" y="-15" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="ron-miss-left0" x="55" y="76" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="ron-miss-up0" x="-49" y="88" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="ron-miss-right0" x="-6" y="55" fps="24" loop="false"/>
+	<anim name="ron-backs-up" anim="ron-backs-up" x="40" y="10" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="ron-alt-left" x="-39" y="-10" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="ron-alt-right" x="-154" y="5" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="ron-alt-up" x="-125" y="22" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="ron-alt-down" x="-22" y="-39" fps="24" loop="false"/>
+</character>

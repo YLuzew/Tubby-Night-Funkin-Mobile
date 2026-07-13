@@ -1,0 +1,18 @@
+{
+	"color": "#8F71FD",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "Tinky winky",
+	"coopAllowed": false,
+	"artists": "5Kat (feat. ewo)",
+	"stepsPerBeat": 4,
+	"displayName": "Chill Bill",
+	"playCutscene": true,
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 128
+}

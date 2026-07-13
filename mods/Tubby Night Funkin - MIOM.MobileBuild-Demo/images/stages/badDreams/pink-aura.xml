@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pink-aura.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aura0000" x="10" y="10" width="566" height="803" frameX="0" frameY="-14" frameWidth="566" frameHeight="817"/>
+	<SubTexture name="aura0001" x="601" y="10" width="566" height="806" frameX="0" frameY="-11" frameWidth="566" frameHeight="817"/>
+	<SubTexture name="aura0002" x="1192" y="10" width="566" height="817"/>
+	<SubTexture name="aura0003" x="10" y="852" width="566" height="803" frameX="0" frameY="-14" frameWidth="566" frameHeight="817"/>
+</TextureAtlas>

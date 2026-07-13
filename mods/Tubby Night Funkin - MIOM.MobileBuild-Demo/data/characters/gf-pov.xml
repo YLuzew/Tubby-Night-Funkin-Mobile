@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" sprite="Girlfriend/gf-pov" camx="-300" camy="-250" icon="gf" color="#B56530" isGF="true">
+	<anim name="danceLeft" anim="gfdance" indices="30,0..14"/>
+	<anim name="danceRight" anim="gfdance" indices="15..29"/>
+	<anim name="GF Cheer" anim="gf-cheer" y="24"/>
+	<anim name="huh" anim="gf huh" x="-7" y="-16"/>
+</character>

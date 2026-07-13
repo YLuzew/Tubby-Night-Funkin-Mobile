@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="170" y="-60" sprite="Po/po-calm" camx="200" camy="130" icon="po" color="#C43636">
+	<anim name="idle" anim="idle0" x="-150" y="-155" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-142" y="-166" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="-62" y="-149" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-177" y="-97" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down0" x="-95" y="-190" fps="24" loop="false"/>
+</character>

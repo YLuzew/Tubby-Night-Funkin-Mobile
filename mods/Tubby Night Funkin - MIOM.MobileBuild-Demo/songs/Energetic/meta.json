@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#FF003D",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"NORMAL",
+		"HARD",
+		"EASY"
+	],
+	"icon": "po",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "ewo (feat. 5Kat & Csauce)",
+	"displayName": "Energetic",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 135
+}

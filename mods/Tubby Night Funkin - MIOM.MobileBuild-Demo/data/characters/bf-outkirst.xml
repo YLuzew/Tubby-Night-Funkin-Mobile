@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="1500" y="1000" sprite="Boyfriend/bf-outkirts" flipX="true" camx="-500" camy="-250" isPlayer="true" icon="bf" color="#31B6D1">
+	<anim name="idle" anim="idle0"/>
+	<anim name="singLEFT" anim="left0" x="74" y="-7"/>
+	<anim name="singRIGHT" anim="right0" x="-48" y="3"/>
+	<anim name="singUP" anim="up0" y="35"/>
+	<anim name="singDOWN" anim="down0" x="-10" y="-30"/>
+</character>

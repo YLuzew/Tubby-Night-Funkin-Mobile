@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character x="-1110" y="500" sprite="Girlfriend/gf-wakos" flipX="true" camx="400" camy="-610" isPlayer="true" icon="gf-wakos" color="#A5004D">
+	<anim name="idle" anim="Gf-wakos-idle0" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singRIGHT" anim="Gf-wakos-right0" x="-275" y="300" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Gf-wakos-left0" x="15" y="235" fps="24" loop="false"/>
+	<anim name="singUP" anim="Gf-wakos-up0" x="-35" y="380" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Gf-wakos-down0" x="-125" y="-20" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="gf-miss-down" x="55" y="-89" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="gf-miss-left" x="80" y="-1" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="gf-miss-right" x="-97" y="3" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="gf-miss-up" x="-22" y="36" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="Gf-wakos-alt-down0" x="-320" y="85" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="Gf-wakos-alt-left0" x="-285" y="450" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="Gf-wakos-alt-right0" x="-120" y="250" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="Gf-wakos-alt-up" x="-355" y="430" fps="24" loop="false"/>
+</character>

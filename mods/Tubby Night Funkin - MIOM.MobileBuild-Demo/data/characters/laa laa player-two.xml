@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="750" y="-200" sprite="LaaLaa/laa-laa-phase-2" flipX="true" camy="-150" camx="-400" isPlayer="true" icon="laalaa-baddreams" color="#B56530">
+	<anim name="idle" anim="laa-laa-idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="laa-laa-right" x="-226" y="-113" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="laa-laa-left" x="115" y="-29" fps="24" loop="false"/>
+	<anim name="singUP" anim="laa-laa-up" x="0" y="41" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="laa-laa-down" x="-85" y="-238" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="laa-laa-miss-down" x="100" y="-36" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="laa-laa-miss-left" x="67" y="33" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="laa-laa-miss-right" x="-11" y="16" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="laa-laa-miss-up" x="19" y="64" fps="24" loop="false"/>
+</character>

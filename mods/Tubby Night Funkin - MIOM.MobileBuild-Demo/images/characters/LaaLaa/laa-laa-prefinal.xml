@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="laa-laa-prefinal.png" width="2751" height="2980">
+	<SubTexture name="laa-laa-solo idle0000" x="990" y="2121" width="304" height="742" frameX="-800" frameY="-226" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0001" x="990" y="2121" width="304" height="742" frameX="-800" frameY="-226" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0002" x="0" y="2232" width="303" height="744" frameX="-800" frameY="-224" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0003" x="0" y="2232" width="303" height="744" frameX="-800" frameY="-224" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0004" x="2080" y="2211" width="304" height="748" frameX="-798" frameY="-220" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0005" x="2080" y="2211" width="304" height="748" frameX="-798" frameY="-220" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0006" x="1473" y="2008" width="304" height="753" frameX="-798" frameY="-215" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0007" x="1473" y="2008" width="304" height="753" frameX="-798" frameY="-215" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0008" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0009" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0010" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0011" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0012" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo idle0013" x="2129" y="1457" width="304" height="754" frameX="-798" frameY="-214" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0000" x="2467" y="0" width="284" height="774" frameX="-811" frameY="-195" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0001" x="2467" y="0" width="284" height="774" frameX="-811" frameY="-195" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0002" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0003" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0004" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0005" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0006" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0007" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0008" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo up0009" x="2384" y="2211" width="292" height="769" frameX="-808" frameY="-200" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0000" x="303" y="2232" width="277" height="748" frameX="-851" frameY="-219" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0001" x="303" y="2232" width="277" height="748" frameX="-851" frameY="-219" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0002" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0003" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0004" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0005" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0006" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0007" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0008" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo right0009" x="2433" y="1457" width="276" height="751" frameX="-848" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0000" x="2129" y="732" width="338" height="725" frameX="-783" frameY="-242" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0001" x="2129" y="732" width="338" height="725" frameX="-783" frameY="-242" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0002" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0003" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0004" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0005" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0006" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0007" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0008" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo down0009" x="2103" y="0" width="348" height="732" frameX="-776" frameY="-235" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0000" x="687" y="2121" width="303" height="750" frameX="-785" frameY="-218" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0001" x="687" y="2121" width="303" height="750" frameX="-785" frameY="-218" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0002" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0003" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0004" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0005" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0006" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0007" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0008" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo left0009" x="1777" y="2008" width="303" height="752" frameX="-790" frameY="-216" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0000" x="0" y="0" width="775" height="812" frameX="-329" frameY="-157" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0001" x="0" y="1453" width="687" height="779" frameX="-452" frameY="-190" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0002" x="775" y="0" width="726" height="800" frameX="-488" frameY="-160" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0003" x="1473" y="800" width="656" height="797" frameX="-591" frameY="-163" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0004" x="1501" y="0" width="602" height="795" frameX="-785" frameY="-135" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0005" x="1501" y="0" width="602" height="795" frameX="-785" frameY="-135" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0006" x="687" y="1453" width="786" height="668" frameX="-872" frameY="-142" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0007" x="0" y="812" width="876" height="641" frameX="-994" frameY="-123" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0008" x="1473" y="1597" width="633" height="411" frameX="-1287" frameY="-129" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0009" x="1777" y="2760" width="239" height="159" frameX="-1681" frameY="-191" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0010" x="580" y="2232" width="96" height="80" frameX="-1824" frameY="-211" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0011" x="2433" y="2208" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0012" x="2433" y="2208" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0013" x="2433" y="2208" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1077"/>
+	<SubTexture name="laa-laa-solo laa-laa-bye0014" x="2433" y="2208" width="1" height="1" frameX="-0" frameY="-0" frameWidth="1920" frameHeight="1077"/>
+</TextureAtlas>

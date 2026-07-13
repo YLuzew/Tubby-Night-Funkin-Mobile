@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character x="170" y="-150" sprite="Girlfriend/gfPhasethree" scale="1.5" flipX="true" camx="-60" camy="-50" isPlayer="true" icon="gf" color="#B56530">
+	<anim name="danceRight" anim="idle" x="0" y="0" fps="24" loop="false" indices="0..13"/>
+	<anim name="danceLeft" anim="idle" x="0" y="0" fps="24" loop="false" indices="14..27"/>
+	<anim name="singRIGHT" anim="right" x="-25" y="-3" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="49" y="-8" fps="24" loop="false"/>
+	<anim name="singUP" anim="uo" x="10" y="20" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="25" y="-45" fps="24" loop="false"/>
+	<anim name="danceLeft-alt" anim="gf-behind-laa-laa" x="130" y="-125" fps="24" loop="false" indices="0..13"/>
+	<anim name="danceRight-alt" anim="gf-behind-laa-laa" x="130" y="-125" fps="24" loop="false" indices="14..27"/>
+</character>

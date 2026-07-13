@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="95" sprite="TinkyWinky/tinky-winky-pov" camx="200" camy="-50" icon="Tinky winky" color="#983BC4">
+	<anim name="idle" anim="tinky-idle0"/>
+	<anim name="singDOWN-alt" anim="tinky-alt-down0" x="-141" y="-29"/>
+	<anim name="singLEFT-alt" anim="tinky-alt-left0" x="-78" y="-6"/>
+	<anim name="singRIGHT-alt" anim="tinky-alt-right0" x="-204" y="5"/>
+	<anim name="singUP-alt" anim="tinky-alt-up0" x="-94" y="42"/>
+	<anim name="singDOWN" anim="tinky-down0" x="-99" y="-108"/>
+	<anim name="huh" anim="tinky-huh" x="20" y="10"/>
+	<anim name="idle-alt" anim="tinky-idle-alt0" x="-110"/>
+	<anim name="singLEFT" anim="tinky-left0" x="-125" y="10"/>
+	<anim name="singRIGHT" anim="tinky-right0" x="-152" y="-27"/>
+	<anim name="singUP" anim="tinky-up0" x="-90" y="10"/>
+</character>

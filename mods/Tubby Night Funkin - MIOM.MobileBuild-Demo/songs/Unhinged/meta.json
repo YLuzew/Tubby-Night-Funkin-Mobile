@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"Normal",
+		"Hard",
+		"Easy"
+	],
+	"icon": "dinky winky",
+	"color": "#C913FF",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Unhinged",
+	"artists": "5Kat",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 105
+}

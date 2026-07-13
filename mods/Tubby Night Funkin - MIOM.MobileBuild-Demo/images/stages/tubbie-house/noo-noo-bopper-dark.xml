@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="noo-noo-bopper-dark.png" width="1707" height="396">
+<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="noo-noo-dancer instance 10000" x="1" y="1" width="336" height="391" frameX="-10" frameY="-7" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10001" x="1" y="1" width="336" height="391" frameX="-10" frameY="-7" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10002" x="340" y="1" width="345" height="393" frameX="-0" frameY="-4" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10003" x="340" y="1" width="345" height="393" frameX="-0" frameY="-4" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10004" x="688" y="1" width="337" height="394" frameX="-9" frameY="-1" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10005" x="688" y="1" width="337" height="394" frameX="-9" frameY="-1" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10006" x="1028" y="1" width="337" height="394" frameX="-9" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10007" x="1028" y="1" width="337" height="394" frameX="-9" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10008" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10009" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10010" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10011" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10012" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+	<SubTexture name="noo-noo-dancer instance 10013" x="1368" y="1" width="338" height="394" frameX="-8" frameY="-0" frameWidth="347" frameHeight="399"/>
+</TextureAtlas>

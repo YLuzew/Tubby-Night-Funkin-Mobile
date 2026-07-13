@@ -1,0 +1,19 @@
+{
+	"customValues": {},
+	"color": "#FFC700",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD"
+	],
+	"icon": "laalaa",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"artists": "5Kat",
+	"displayName": "恬晴",
+	"beatsPerMeasure": 4,
+	"playCutscene": true,
+	"needsVoices": true,
+	"bpm": 115
+}

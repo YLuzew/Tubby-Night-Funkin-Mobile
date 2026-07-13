@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#B4A257",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal",
+		"hard",
+		"easy"
+	],
+	"icon": "outskirt",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Sensed",
+	"artists": "ewo (feat. 5Kat)",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 185
+}

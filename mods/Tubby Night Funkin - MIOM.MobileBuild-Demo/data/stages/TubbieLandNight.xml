@@ -1,0 +1,47 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="stage" folder="stages/tubbieLandNight/" startCamPosY="-500" startCamPosX="885">
+    
+    <sprite name="sky" x="-850" y="-500" sprite="sky" scale="1" scroll="0"/>
+    <sprite name="sun" x="400" y="-300" sprite="moon" scale="1" scroll="0"/>
+    <sprite name="hills-sun" x="-950" y="130" sprite="hills-sun" scale="1" scroll="0.3"/>
+    <sprite name="hillsbackground" x="-800" y="10" sprite="hills-background" scale="1" scroll="0.4"/>
+    
+    <high-memory>
+        <sprite name="sky2" x="-1400" y="-1000" sprite="phase 2/sky" scale="1" scroll="0.3" alpha="0"/>
+        <sprite name="sun2" x="1500" y="-1000" sprite="phase 2/moon" scale="1" scroll="0.3" alpha="0"/>
+        <sprite name="hillsback2" x="-680" y="-220" sprite="phase 2/hills-back" scale="1" scroll="0.7" alpha="0"/>
+        <sprite name="tree" x="-820" y="-1200" sprite="tree" scale="1" scroll="0.7"/>
+        <sprite name="tree2" x="-680" y="-1500" sprite="phase 2/tree" scale="1" scroll="1" alpha="0"/>
+    </high-memory>
+
+    <sprite name="hillstage" x="-480" y="-400" sprite="hill-stage" scale="1" scroll="1"/>
+    <sprite name="groundStage2" x="-680" y="-300" sprite="phase 2/ground-stage" scale="1" scroll="1" alpha="0"/>
+
+    <girlfriend scroll="1" y="-990" x="950"/>
+
+    
+    <sprite name="boomboxgrass" x="650" y="-264" sprite="boomboxgrass" scale="1"/>
+    
+    <high-memory>
+        <sprite name="bushes" x="-400" y="-700" sprite="bushes" scale="1" scroll="1.4"/>
+        <sprite name="bushBack2" x="-900" y="-500" sprite="phase 2/bush-back" scale="1" scroll="1.2" alpha="0"/>
+        <sprite name="bushFront2" x="-500" y="-500" sprite="phase 2/bush-front" scale="1" scroll="1.5" alpha="0"/>
+    </high-memory>
+
+    <dad scroll="1" y="-740" x="180"/>
+    <boyfriend scroll="1" y="-560" x="1260"/>
+	<sprite name="grass" x="390" y="-220" sprite="grass" scale="1"/>
+    <combo y="-670" x="800"/>
+
+    <high-memory>
+        <sprite name="boomboxgrass2" x="1150" y="-50" sprite="phase 2/boomboxgrass" scale="1" alpha="0"/>
+        
+        <sprite name="overlay" x="-480" y="-1000" sprite="overlay" scale="1.2" scroll="0.5"><property name="blend" type="int" value="0" /></sprite>
+        <sprite name="fog" x="-500" y="-200" sprite="fog" scale="1" scroll="0.5"><property name="blend" type="int" value="1" /></sprite>
+        <sprite name="sunlight" x="-50" y="-400" sprite="moonlight" scale="1" scroll="0.1"><property name="blend" type="int" value="0" /></sprite>
+
+        <sprite name="fog2" x="-1300" y="200" sprite="phase 2/fog" scale="1" scroll="0.5" alpha="0"><property name="blend" type="int" value="1" /></sprite>
+        <sprite name="sunlight2" x="900" y="-950" sprite="phase 2/sun-light" scale="1.2" scroll="0.1" alpha="0"><property name="blend" type="int" value="0" /></sprite>
+        <sprite name="overlay2" x="-480" y="-1000" sprite="phase 2/over-lay" scale="1.2" scroll="0.5" alpha="0"><property name="blend" type="int" value="0" /></sprite>
+    </high-memory>
+</stage>

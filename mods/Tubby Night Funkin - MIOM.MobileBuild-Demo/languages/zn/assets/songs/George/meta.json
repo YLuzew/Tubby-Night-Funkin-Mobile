@@ -1,0 +1,18 @@
+{
+	"customValues": {},
+	"color": "#7CBAFF",
+	"opponentModeAllowed": false,
+	"icon": "george",
+	"difficulties": [
+		"HARD",
+		"NORMAL",
+		"EASY"
+	],
+	"coopAllowed": false,
+	"artists": "LyricalMaxi (合作. Csauce)",
+	"stepsPerBeat": 4,
+	"displayName": "乔治",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}
